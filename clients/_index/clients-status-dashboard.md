@@ -13,3 +13,4 @@ Panel operativo para seguimiento multi-cliente sin mezclar contexto.
 | Cliente | Periodo activo | Etapa actual | Próximo entregable | Responsable | Estado |
 |---|---|---|---|---|---|
 | _template | YYYY-MM | Discovery | diagnosis.md | TBD | Base |
+| aura-digital-nj | 2026-06 | Setup inicial | client-profile.md + scope-and-kpis.md | TBD | Activo |
