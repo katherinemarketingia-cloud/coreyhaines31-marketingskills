@@ -254,7 +254,7 @@
 1. **Número de pieza:** 1
 2. **Objetivo del Reel:** Hacer que contratistas y negocios de servicios en NJ entiendan que antes de pagar publicidad necesitan una web clara y confiable.
 3. **Hook hablado:** “¿Estás pagando ads y nadie te escribe? Puede que tu web esté frenando todo.”
-4. **Texto en pantalla inicial:** “¿Pagas ads pero no llegan mensajes?”
+4. **Texto en pantalla inicial:** “Pagas ads, cero mensajes”
 5. **Guion hablado (25-35s):** “Si eres contractor, roofer, cleaner o handyman en New Jersey, esto pasa mucho: inviertes en anuncios, te visitan… pero no te contactan. A un negocio latino en Union le pasaba igual: tenían clics, pero su página no decía claro qué servicio hacían ni en qué zonas trabajaban. Error común: pagar publicidad antes de ordenar la base. Solución simple: una web clara con servicio, ciudades y botón visible de WhatsApp. Ahí sí, WhatsApp cierra la conversación.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero en cámara, plano medio, apertura directa con dolor.
@@ -274,7 +274,7 @@
 1. **Número de pieza:** 2
 2. **Objetivo del Reel:** Mostrar que la percepción profesional influye directamente en la confianza y en los mensajes que recibe el negocio.
 3. **Hook hablado:** “Si en internet te ves improvisado, el cliente ni pregunta… se va.”
-4. **Texto en pantalla inicial:** “Buen trabajo, mala imagen = menos mensajes”
+4. **Texto en pantalla inicial:** “Te ves improvisado, te ignoran”
 5. **Guion hablado (25-35s):** “A muchos negocios latinos en New Jersey les pasa: trabajan excelente, pero online no transmiten confianza. Ejemplo real: un cleaner en Elizabeth tenía buen servicio, pero su página se veía vacía y sin fotos reales; la gente entraba y salía. Error común: pensar que solo importa trabajar bien. Solución simple: web clara, fotos reales, zonas de servicio y botón directo a WhatsApp. Cuando eso está ordenado, la confianza sube y llegan más conversaciones.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero abre con contraste “trabajas bien / te ves improvisado”.
@@ -294,7 +294,7 @@
 1. **Número de pieza:** 4
 2. **Objetivo del Reel:** Corregir la idea de que Instagram reemplaza una web y enseñar el flujo IG → web → WhatsApp.
 3. **Hook hablado:** “Instagram te trae miradas, pero la web es la que gana la confianza.”
-4. **Texto en pantalla inicial:** “IG atrae, web aclara, WhatsApp cierra”
+4. **Texto en pantalla inicial:** “Instagram no reemplaza tu web”
 5. **Guion hablado (25-35s):** “Si tienes negocio local en New Jersey, seguro lo escuchaste: ‘con Instagram me basta’. Ejemplo real: un handyman en Newark tenía buen contenido, pero al buscar más info no había web clara y perdía contactos. Error común: creer que Instagram reemplaza tu página. Solución simple: usa Instagram para atraer, una web para explicar servicios y zonas, y WhatsApp para cerrar la conversación. Ese flujo te ahorra tiempo y evita clientes fríos.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero con pregunta frecuente “¿Con IG basta?”.
@@ -314,7 +314,7 @@
 1. **Número de pieza:** 5
 2. **Objetivo del Reel:** Explicar de forma concreta qué elementos mínimos debe tener la web de un contractor para generar contacto.
 3. **Hook hablado:** “Si tu web no tiene estos 4 puntos, estás perdiendo mensajes en NJ.”
-4. **Texto en pantalla inicial:** “4 básicos de una web que sí genera contacto”
+4. **Texto en pantalla inicial:** “Web NJ: 4 básicos”
 5. **Guion hablado (25-35s):** “Si eres contractor, roofer, cleaner o handyman en New Jersey, anota esto. Caso típico: negocio en Passaic con visitas, pero sin mensajes porque la página era confusa. Error común: llenar la web de texto y olvidar lo básico. Solución simple en 4 puntos: qué servicio haces, fotos reales, ciudades donde trabajas y botón de WhatsApp visible desde arriba. Si eso se entiende en segundos, el cliente confía más y te escribe más rápido.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero presenta lista de 4 puntos.
@@ -334,7 +334,7 @@
 1. **Número de pieza:** 7
 2. **Objetivo del Reel:** Reforzar autoridad local mostrando señales prácticas de profesionalismo para negocios latinos en NJ.
 3. **Hook hablado:** “En Newark, Elizabeth o East Orange te juzgan en segundos: ¿tu negocio se ve confiable?”
-4. **Texto en pantalla inicial:** “3 señales de imagen profesional en NJ”
+4. **Texto en pantalla inicial:** “¿Tu negocio se ve confiable?”
 5. **Guion hablado (25-35s):** “Si tienes un negocio latino de servicios en New Jersey, la primera impresión decide mucho. Ejemplo real: un roofer en East Orange mejoró mensajes solo ordenando su página. Error común: enfocarse en publicar todos los días, pero sin una web que respalde. Solución simple: mensaje claro de lo que haces, evidencia real del trabajo y contacto directo por WhatsApp. Cuando esas 3 señales están en una web clara, el cliente te ve serio y te escribe con más seguridad.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero contextualiza ciudades de NJ.
@@ -354,7 +354,7 @@
 1. **Número de pieza:** 8
 2. **Objetivo del Reel:** Posicionar a AÜRA como aliado práctico que guía con proceso claro, no como vendedor de servicios sueltos.
 3. **Hook hablado:** “Si vendes servicios sueltos, el cliente se confunde y no avanza.”
-4. **Texto en pantalla inicial:** “No vendas servicios sueltos: guía con proceso”
+4. **Texto en pantalla inicial:** “Servicios sueltos = confusión”
 5. **Guion hablado (25-35s):** “A muchos negocios latinos en New Jersey les pasa: ofrecen de todo, pero el cliente no sabe qué pedir primero. Ejemplo real: un contractor en Perth Amboy tenía muchas opciones, pero pocas conversaciones útiles. Error común: mostrar una lista de servicios sin orden. Solución simple: proceso claro con web: primero revisar cómo te ven hoy, luego ordenar la página para que se entienda rápido, y después llevar el contacto a WhatsApp. Así el cliente entiende, confía y da el siguiente paso.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero plantea el problema de vender “de todo”.
@@ -374,7 +374,7 @@
 1. **Número de pieza:** 10
 2. **Objetivo del Reel:** Convertir la educación en acción explicando un sistema simple de captación con web + WhatsApp.
 3. **Hook hablado:** “Si te ven pero no te escriben, te falta este paso en medio.”
-4. **Texto en pantalla inicial:** “Sistema simple: Web + WhatsApp”
+4. **Texto en pantalla inicial:** “Te ven, pero no te escriben”
 5. **Guion hablado (25-35s):** “Para muchos negocios latinos de servicios en New Jersey, el problema no es visibilidad; es conversión. Ejemplo real: un cleaner en Jersey City tenía alcance en redes, pero pocos contactos. Error común: pasar de Instagram directo a DM y saltarse la web. Solución simple: 1) te ven en IG o Google, 2) validan en tu web, 3) te escriben por WhatsApp. Si el paso dos está claro, el cliente llega más decidido y la conversación avanza más rápido.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero promete explicación rápida del sistema.
@@ -394,7 +394,7 @@
 1. **Número de pieza:** 12
 2. **Objetivo del Reel:** Cerrar el periodo reforzando posicionamiento local de AÜRA y motivar contacto inmediato por WhatsApp.
 3. **Hook hablado:** “Tu negocio puede verse pro este mes, sin complicarte ni empezar de cero.”
-4. **Texto en pantalla inicial:** “AÜRA Digital: aliado local en NJ”
+4. **Texto en pantalla inicial:** “Negocio latino en NJ”
 5. **Guion hablado (25-35s):** “En New Jersey vemos lo mismo: negocios buenos que no se ven confiables online y pierden oportunidades. Ejemplo real: un handyman en Newark empezó por ordenar su web y mejoró la calidad de los contactos. Error común: querer hacer todo a la vez. Solución simple: web clara primero, luego lo demás según tu etapa. Si eres contractor, roofer, cleaner o handyman, el siguiente paso es fácil: escríbenos por WhatsApp y te orientamos sin enredos.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero abre con dolor común local.
