@@ -253,49 +253,49 @@
 ### Reel — Pieza 1
 1. **Número de pieza:** 1
 2. **Objetivo del Reel:** Hacer que contratistas y negocios de servicios en NJ entiendan que antes de pagar publicidad necesitan una web clara y confiable.
-3. **Hook hablado:** “Si eres contratista en New Jersey y estás por pagar publicidad, para un segundo porque puedes estar invirtiendo sin tener la base lista.”
-4. **Texto en pantalla inicial:** “Antes de pagar ads, revisa esto”
-5. **Guion hablado (25-40s):** “Si eres contratista, roofer, cleaner o handyman en New Jersey, esto te puede ahorrar dolores de cabeza. Muchas veces un cliente ve tu anuncio y luego te busca. Si entra y no entiende rápido qué haces, en qué zona trabajas y cómo contactarte, se va con otro negocio que se ve más claro. No es que trabajes mal, es que no te estás mostrando bien. Antes de meter dinero en publicidad, ordena tu presencia: una web simple, confiable y con botón directo a WhatsApp.”
+3. **Hook hablado:** “¿Estás pagando ads y nadie te escribe? Puede que tu web esté frenando todo.”
+4. **Texto en pantalla inicial:** “¿Pagas ads pero no llegan mensajes?”
+5. **Guion hablado (25-35s):** “Si eres contractor, roofer, cleaner o handyman en New Jersey, esto pasa mucho: inviertes en anuncios, te visitan… pero no te contactan. A un negocio latino en Union le pasaba igual: tenían clics, pero su página no decía claro qué servicio hacían ni en qué zonas trabajaban. Error común: pagar publicidad antes de ordenar la base. Solución simple: una web clara con servicio, ciudades y botón visible de WhatsApp. Ahí sí, WhatsApp cierra la conversación.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero en cámara, plano medio, apertura directa con dolor.
-   - **Toma 2:** Vocero señalando celular con ejemplo de búsqueda/perfil confuso.
+   - **Toma 2:** Vocero señalando celular con ejemplo de visita sin contacto.
    - **Toma 3:** Vocero cerrando con solución + invitación a WhatsApp.
 7. **Texto en pantalla por toma:**
-   - **Toma 1:** “¿Pagando ads sin base?”
-   - **Toma 2:** “Si no se entiende tu servicio, te pierden”
+   - **Toma 1:** “Muchos clics, pocos mensajes”
+   - **Toma 2:** “Error: mandar tráfico a una web confusa”
    - **Toma 3:** “Web clara + WhatsApp = más conversaciones”
 8. **B-roll sugerido:** Mano usando celular, vista rápida de web simple con servicios, tomas de contractor trabajando.
 9. **CTA hablado:** “Si quieres, te ayudamos a ordenar tu web primero. Escríbenos por WhatsApp.”
 10. **CTA escrito:** “Escríbenos por WhatsApp para cotizar tu página web.”
 11. **Nota de edición:** Cortes cada 2-3 segundos, subtítulos grandes y resaltar “web clara” y “WhatsApp”.
-12. **Versión alternativa del hook:** “Antes de pagar un dólar en publicidad, revisa si tu negocio en NJ se entiende en 5 segundos.”
+12. **Versión alternativa del hook:** “Antes de meter un dólar en ads, revisa si tu web se entiende en 5 segundos.”
 
 ### Reel — Pieza 2
 1. **Número de pieza:** 2
 2. **Objetivo del Reel:** Mostrar que la percepción profesional influye directamente en la confianza y en los mensajes que recibe el negocio.
-3. **Hook hablado:** “Tu negocio puede trabajar excelente, pero si se ve improvisado en internet, la gente no te escribe.”
-4. **Texto en pantalla inicial:** “Trabajo bueno + imagen débil = desconfianza”
-5. **Guion hablado (25-40s):** “Esto le pasa a muchos negocios latinos en New Jersey: hacen buen trabajo, pero online se ven desordenados. Y cuando alguien duda, no pregunta, simplemente sigue buscando. Si eres contractor, cleaner, roofer o handyman, tu presencia digital tiene que mostrar seriedad desde el primer vistazo. No hablo de algo complicado: hablo de una web clara, fotos reales de tu trabajo, tus zonas de servicio y un botón visible a WhatsApp. Eso hace que el cliente confíe más rápido.”
+3. **Hook hablado:** “Si en internet te ves improvisado, el cliente ni pregunta… se va.”
+4. **Texto en pantalla inicial:** “Buen trabajo, mala imagen = menos mensajes”
+5. **Guion hablado (25-35s):** “A muchos negocios latinos en New Jersey les pasa: trabajan excelente, pero online no transmiten confianza. Ejemplo real: un cleaner en Elizabeth tenía buen servicio, pero su página se veía vacía y sin fotos reales; la gente entraba y salía. Error común: pensar que solo importa trabajar bien. Solución simple: web clara, fotos reales, zonas de servicio y botón directo a WhatsApp. Cuando eso está ordenado, la confianza sube y llegan más conversaciones.”
 6. **Estructura de toma:**
-   - **Toma 1:** Vocero abre con contraste “trabajas bien / te ves mal”.
+   - **Toma 1:** Vocero abre con contraste “trabajas bien / te ves improvisado”.
    - **Toma 2:** Pantalla dividida: ejemplo visual confuso vs claro.
    - **Toma 3:** Vocero resume pasos concretos para verse profesional.
 7. **Texto en pantalla por toma:**
    - **Toma 1:** “No basta con trabajar bien”
-   - **Toma 2:** “Confuso vs profesional”
+   - **Toma 2:** “Confuso vs confiable”
    - **Toma 3:** “Web clara + prueba real + WhatsApp”
 8. **B-roll sugerido:** Antes/después de perfiles, fotos de trabajos terminados, cliente escribiendo mensaje.
 9. **CTA hablado:** “Si quieres que tu negocio se vea más profesional, escríbenos por WhatsApp y te orientamos.”
 10. **CTA escrito:** “Pide por WhatsApp información sobre páginas web para tu negocio.”
 11. **Nota de edición:** Usar labels “ANTES” y “DESPUÉS” con color contrastado; mantener ritmo ágil.
-12. **Versión alternativa del hook:** “No estás perdiendo clientes por tu servicio: los estás perdiendo por cómo te ves online.”
+12. **Versión alternativa del hook:** “No pierdes clientes por tu servicio: los pierdes por cómo te ven online.”
 
 ### Reel — Pieza 4
 1. **Número de pieza:** 4
 2. **Objetivo del Reel:** Corregir la idea de que Instagram reemplaza una web y enseñar el flujo IG → web → WhatsApp.
-3. **Hook hablado:** “Instagram te puede descubrir, pero una web clara es lo que te hace ver confiable.”
-4. **Texto en pantalla inicial:** “IG ayuda, la web convierte confianza”
-5. **Guion hablado (25-40s):** “Muchos dueños de negocio en New Jersey me dicen: ‘Ya tengo Instagram, con eso estoy bien’. La realidad es que Instagram abre la puerta, pero cuando una persona quiere contratarte, te investiga más. Si no encuentra una web clara con tus servicios, zonas y contacto rápido, se enfría. Especialmente en servicios como roofing, cleaning o handyman, la confianza se decide rápido. Por eso el orden es simple: Instagram atrae, tu web explica y WhatsApp cierra la conversación.”
+3. **Hook hablado:** “Instagram te trae miradas, pero la web es la que gana la confianza.”
+4. **Texto en pantalla inicial:** “IG atrae, web aclara, WhatsApp cierra”
+5. **Guion hablado (25-35s):** “Si tienes negocio local en New Jersey, seguro lo escuchaste: ‘con Instagram me basta’. Ejemplo real: un handyman en Newark tenía buen contenido, pero al buscar más info no había web clara y perdía contactos. Error común: creer que Instagram reemplaza tu página. Solución simple: usa Instagram para atraer, una web para explicar servicios y zonas, y WhatsApp para cerrar la conversación. Ese flujo te ahorra tiempo y evita clientes fríos.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero con pregunta frecuente “¿Con IG basta?”.
    - **Toma 2:** Gráfico simple del flujo IG → Web → WhatsApp.
@@ -303,19 +303,19 @@
 7. **Texto en pantalla por toma:**
    - **Toma 1:** “¿Solo Instagram?”
    - **Toma 2:** “IG → Web → WhatsApp”
-   - **Toma 3:** “Sin web clara, se cae la confianza”
+   - **Toma 3:** “Sin web clara, baja la confianza”
 8. **B-roll sugerido:** Navegación de Instagram a enlace en bio, carga de una web, apertura de chat WhatsApp.
 9. **CTA hablado:** “Si quieres ese sistema simple para tu negocio, envíanos ‘WEB’ por WhatsApp.”
 10. **CTA escrito:** “Envíanos ‘WEB’ por WhatsApp y te explicamos el proceso.”
 11. **Nota de edición:** Animar el flujo con flechas grandes; dejar 2 segundos finales para CTA en pantalla.
-12. **Versión alternativa del hook:** “Instagram sin página web es como tener vitrina sin puerta de entrada.”
+12. **Versión alternativa del hook:** “Sin web, Instagram te da alcance… pero no siempre te da clientes.”
 
 ### Reel — Pieza 5
 1. **Número de pieza:** 5
 2. **Objetivo del Reel:** Explicar de forma concreta qué elementos mínimos debe tener la web de un contractor para generar contacto.
-3. **Hook hablado:** “Si eres contractor en NJ, tu web debe tener esto sí o sí para que te escriban.”
+3. **Hook hablado:** “Si tu web no tiene estos 4 puntos, estás perdiendo mensajes en NJ.”
 4. **Texto en pantalla inicial:** “4 básicos de una web que sí genera contacto”
-5. **Guion hablado (25-40s):** “Si eres contractor, roofer, cleaner o handyman en New Jersey, te lo pongo fácil. Tu web no necesita ser complicada, pero sí clara. Punto uno: decir exactamente qué servicio haces. Punto dos: mostrar fotos reales de tu trabajo. Punto tres: dejar claro en qué ciudades trabajas. Punto cuatro: botón directo a WhatsApp visible desde arriba. Si una persona entra y no ve eso rápido, se confunde y se va. Cuando está claro, aumenta la confianza y llegan más conversaciones.”
+5. **Guion hablado (25-35s):** “Si eres contractor, roofer, cleaner o handyman en New Jersey, anota esto. Caso típico: negocio en Passaic con visitas, pero sin mensajes porque la página era confusa. Error común: llenar la web de texto y olvidar lo básico. Solución simple en 4 puntos: qué servicio haces, fotos reales, ciudades donde trabajas y botón de WhatsApp visible desde arriba. Si eso se entiende en segundos, el cliente confía más y te escribe más rápido.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero presenta lista de 4 puntos.
    - **Toma 2:** Close-up a pantalla con ejemplos de cada punto.
@@ -328,14 +328,14 @@
 9. **CTA hablado:** “Si quieres, te ayudamos a armar esa estructura. Mándanos ‘WEB’ por WhatsApp.”
 10. **CTA escrito:** “Envíanos ‘WEB’ por WhatsApp y te explicamos el proceso.”
 11. **Nota de edición:** Mostrar cada punto con número grande 1-4; subtítulos con palabras cortas.
-12. **Versión alternativa del hook:** “Tu web de contractor en NJ puede ser simple, pero no puede ser confusa.”
+12. **Versión alternativa del hook:** “Tu web puede ser simple, pero no puede ser confusa.”
 
 ### Reel — Pieza 7
 1. **Número de pieza:** 7
 2. **Objetivo del Reel:** Reforzar autoridad local mostrando señales prácticas de profesionalismo para negocios latinos en NJ.
-3. **Hook hablado:** “Negocio latino en Newark, East Orange o Elizabeth: estas 3 señales te hacen ver más profesional.”
+3. **Hook hablado:** “En Newark, Elizabeth o East Orange te juzgan en segundos: ¿tu negocio se ve confiable?”
 4. **Texto en pantalla inicial:** “3 señales de imagen profesional en NJ”
-5. **Guion hablado (25-40s):** “Si tienes un negocio de servicios en New Jersey, la primera impresión te puede abrir o cerrar puertas. Señal uno: tu mensaje debe decir claro qué haces y para quién. Señal dos: mostrar trabajo real, no solo diseños bonitos. Señal tres: contacto fácil, directo y rápido por WhatsApp. Esto aplica para contratistas, roofers, cleaners y handymen. Cuando todo eso está ordenado en una web clara, el cliente te percibe serio y te escribe con más seguridad.”
+5. **Guion hablado (25-35s):** “Si tienes un negocio latino de servicios en New Jersey, la primera impresión decide mucho. Ejemplo real: un roofer en East Orange mejoró mensajes solo ordenando su página. Error común: enfocarse en publicar todos los días, pero sin una web que respalde. Solución simple: mensaje claro de lo que haces, evidencia real del trabajo y contacto directo por WhatsApp. Cuando esas 3 señales están en una web clara, el cliente te ve serio y te escribe con más seguridad.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero contextualiza ciudades de NJ.
    - **Toma 2:** Vocero enumera 3 señales con apoyo visual.
@@ -348,14 +348,14 @@
 9. **CTA hablado:** “Escríbenos ‘QUIERO WEB’ por WhatsApp y te orientamos según tu negocio.”
 10. **CTA escrito:** “Escríbenos ‘QUIERO WEB’ para una orientación inicial.”
 11. **Nota de edición:** Colocar nombres de ciudades en overlay al inicio; ritmo firme pero cercano.
-12. **Versión alternativa del hook:** “En NJ no siempre gana el mejor servicio: gana el que transmite más confianza primero.”
+12. **Versión alternativa del hook:** “En NJ no siempre gana el mejor servicio; gana el que transmite confianza primero.”
 
 ### Reel — Pieza 8
 1. **Número de pieza:** 8
 2. **Objetivo del Reel:** Posicionar a AÜRA como aliado práctico que guía con proceso claro, no como vendedor de servicios sueltos.
-3. **Hook hablado:** “Cuando un negocio solo vende servicios sueltos, el cliente se confunde y no avanza.”
-4. **Texto en pantalla inicial:** “No vendas suelto: guía con proceso”
-5. **Guion hablado (25-40s):** “A muchos negocios latinos en New Jersey les pasa algo: ofrecen de todo, pero el cliente no entiende por dónde empezar. Si eres contractor, cleaner o handyman, necesitas un camino simple. En AÜRA lo hacemos así: primero revisamos cómo te estás mostrando hoy, luego ordenamos tu web para que se vea clara y confiable, y después activamos acciones para que te contacten por WhatsApp. Así de práctico. Sin enredos, sin promesas raras. Primero confianza, luego crecimiento paso a paso.”
+3. **Hook hablado:** “Si vendes servicios sueltos, el cliente se confunde y no avanza.”
+4. **Texto en pantalla inicial:** “No vendas servicios sueltos: guía con proceso”
+5. **Guion hablado (25-35s):** “A muchos negocios latinos en New Jersey les pasa: ofrecen de todo, pero el cliente no sabe qué pedir primero. Ejemplo real: un contractor en Perth Amboy tenía muchas opciones, pero pocas conversaciones útiles. Error común: mostrar una lista de servicios sin orden. Solución simple: proceso claro con web: primero revisar cómo te ven hoy, luego ordenar la página para que se entienda rápido, y después llevar el contacto a WhatsApp. Así el cliente entiende, confía y da el siguiente paso.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero plantea el problema de vender “de todo”.
    - **Toma 2:** Vocero explica proceso en 3 pasos.
@@ -368,14 +368,14 @@
 9. **CTA hablado:** “Pide por WhatsApp nuestro proceso en 3 pasos y lo revisamos contigo.”
 10. **CTA escrito:** “Pide por WhatsApp nuestro proceso en 3 pasos.”
 11. **Nota de edición:** Transiciones limpias entre bloques 1-2-3; destacar cada paso con color de marca.
-12. **Versión alternativa del hook:** “Si tu cliente no entiende tu proceso, no te compra aunque hagas buen trabajo.”
+12. **Versión alternativa del hook:** “Si tu cliente no entiende tu proceso, no te escribe.”
 
 ### Reel — Pieza 10
 1. **Número de pieza:** 10
 2. **Objetivo del Reel:** Convertir la educación en acción explicando un sistema simple de captación con web + WhatsApp.
-3. **Hook hablado:** “Te explico en 30 segundos cómo un negocio latino en NJ puede pasar de ‘me ven’ a ‘me escriben’.”
+3. **Hook hablado:** “Si te ven pero no te escriben, te falta este paso en medio.”
 4. **Texto en pantalla inicial:** “Sistema simple: Web + WhatsApp”
-5. **Guion hablado (25-40s):** “No necesitas complicarte para empezar a captar mejor. El sistema más simple para muchos negocios de servicios en New Jersey es este: primero te ven en Instagram o en Google. Segundo, revisan tu web para validar si te ves confiable. Tercero, te escriben por WhatsApp cuando todo está claro. Si esa parte del medio falla, se cae todo. Por eso insistimos en una web clara, humana y directa. Especialmente para contractors, roofers, cleaners y handymen que viven de la confianza local.”
+5. **Guion hablado (25-35s):** “Para muchos negocios latinos de servicios en New Jersey, el problema no es visibilidad; es conversión. Ejemplo real: un cleaner en Jersey City tenía alcance en redes, pero pocos contactos. Error común: pasar de Instagram directo a DM y saltarse la web. Solución simple: 1) te ven en IG o Google, 2) validan en tu web, 3) te escriben por WhatsApp. Si el paso dos está claro, el cliente llega más decidido y la conversación avanza más rápido.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero promete explicación rápida del sistema.
    - **Toma 2:** Gráfico de 3 pasos con ejemplos visuales.
@@ -383,19 +383,19 @@
 7. **Texto en pantalla por toma:**
    - **Toma 1:** “De visibilidad a conversación”
    - **Toma 2:** “1) Te ven 2) Te validan 3) Te escriben”
-   - **Toma 3:** “Web clara = contacto más fácil por WhatsApp”
+   - **Toma 3:** “Web clara = más WhatsApp”
 8. **B-roll sugerido:** Íconos de Instagram/Google/web/WhatsApp, pantalla de contacto, notificación de mensaje entrante.
 9. **CTA hablado:** “Si quieres implementar este sistema en tu negocio, escríbenos ‘WEB’ por WhatsApp.”
 10. **CTA escrito:** “Escríbenos ‘WEB’ por WhatsApp y te explicamos cómo funciona.”
 11. **Nota de edición:** Usar motion simple de flechas entre pasos; audio limpio con voz protagonista.
-12. **Versión alternativa del hook:** “Si te ven pero no te escriben, el problema casi siempre está en tu presencia digital.”
+12. **Versión alternativa del hook:** “No te faltan vistas; te falta una web que convierta esas vistas en mensajes.”
 
 ### Reel — Pieza 12
 1. **Número de pieza:** 12
 2. **Objetivo del Reel:** Cerrar el periodo reforzando posicionamiento local de AÜRA y motivar contacto inmediato por WhatsApp.
-3. **Hook hablado:** “Si tu negocio latino en New Jersey quiere verse más profesional este mes, empieza por aquí.”
+3. **Hook hablado:** “Tu negocio puede verse pro este mes, sin complicarte ni empezar de cero.”
 4. **Texto en pantalla inicial:** “AÜRA Digital: aliado local en NJ”
-5. **Guion hablado (25-40s):** “En New Jersey vemos lo mismo todo el tiempo: negocios buenos que pierden oportunidades porque su presencia digital no transmite confianza. En AÜRA Digital te acompañamos paso a paso: primero una web clara y confiable para que te entiendan rápido, luego reforzamos con branding, publicidad local, Google, Meta Ads, impresos, uniformes o rotulación según tu etapa. No se trata de hacer todo de golpe, se trata de empezar bien. Si eres contratista, roofer, cleaner o handyman, el siguiente paso puede ser hoy: conversemos por WhatsApp.”
+5. **Guion hablado (25-35s):** “En New Jersey vemos lo mismo: negocios buenos que no se ven confiables online y pierden oportunidades. Ejemplo real: un handyman en Newark empezó por ordenar su web y mejoró la calidad de los contactos. Error común: querer hacer todo a la vez. Solución simple: web clara primero, luego lo demás según tu etapa. Si eres contractor, roofer, cleaner o handyman, el siguiente paso es fácil: escríbenos por WhatsApp y te orientamos sin enredos.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero abre con dolor común local.
    - **Toma 2:** Vocero explica enfoque “web primero, complementos después”.
@@ -405,7 +405,7 @@
    - **Toma 2:** “Web primero. Luego escalas.”
    - **Toma 3:** “Escríbenos hoy por WhatsApp”
 8. **B-roll sugerido:** Tomas locales NJ, ejemplos de web en móvil, clips cortos de trabajos/branding/rotulación.
-9. **CTA hablado:** “Envíanos ‘QUIERO WEB’ por WhatsApp y te contactamos.”
+9. **CTA hablado:** “Envíanos ‘QUIERO WEB’ por WhatsApp y te orientamos.”
 10. **CTA escrito:** “Envíanos ‘QUIERO WEB’ por WhatsApp y te contactamos.”
 11. **Nota de edición:** Cierre con pantalla final de 3 segundos mostrando WhatsApp y palabra clave.
-12. **Versión alternativa del hook:** “Tu negocio no necesita verse más grande, necesita verse más claro y confiable.”
+12. **Versión alternativa del hook:** “No necesitas verte más grande, necesitas verte claro y confiable.”
