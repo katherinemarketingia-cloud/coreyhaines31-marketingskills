@@ -82,12 +82,28 @@
 5. **Tema:** 5 cosas que debe tener una web para generar confianza y contacto.  
 6. **Objetivo:** Educar con checklist guardable/compartible.  
 7. **Hook:** “5 cosas que tu web debe tener para que te contacten con confianza.”  
-8. **Idea del contenido:** Slides: (1) portada, (2) servicio claro, (3) zona de atención NJ, (4) pruebas visuales, (5) botón WhatsApp visible, (6) cierre con siguiente paso.  
-9. **Copy sugerido:** “Si tu web no explica rápido quién eres, qué haces y cómo contactarte, pierdes oportunidades. Guarda este checklist y revísalo hoy mismo.”  
-10. **CTA:** “Pide por WhatsApp información sobre páginas web para tu negocio.”  
-11. **Asset requerido:** Carrusel 1080x1350 (6 slides), diseño limpio, iconografía simple.  
-12. **Notas de producción:** Priorizar legibilidad; máximo 12-15 palabras por slide; diseño alineado a marca local, no corporativo frío.  
-13. **Estado inicial:** pendiente
+8. **Texto de portada (Slide 1 / hook):** “Si te piden precio pero no te contratan, revisa esto en tu web.”  
+9. **Secuencia lógica del mensaje:** Dolor real del negocio local → error que lo provoca → criterio correcto → acción práctica inmediata → cierre a conversación por WhatsApp.  
+10. **Texto slide por slide:**  
+   - **Slide 1 (portada fuerte):** “Si te piden precio pero no te contratan, revisa esto en tu web.”  
+   - **Slide 2 (problema):** “Muchos negocios latinos en NJ se ven ‘improvisados’ online, aunque trabajen bien.”  
+   - **Slide 3 (error común):** “Error común: web bonita pero confusa (no dice claro qué haces, dónde trabajas y cómo contactarte).”  
+   - **Slide 4 (solución/criterio correcto):** “Tu web debe responder en segundos: servicio, zonas (Newark/East Orange/Elizabeth), prueba real y contacto.”  
+   - **Slide 5 (acción práctica/beneficio):** “Checklist rápido: 1) servicio principal arriba 2) fotos reales 3) botón WhatsApp visible.”  
+   - **Slide 6 (CTA final):** “Escríbenos ‘WEB’ por WhatsApp y te explicamos el proceso.”  
+11. **Idea visual por slide:**  
+   - **Slide 1:** Titular grande + fondo de celular con web borrosa detrás (sensación de “algo está fallando”).  
+   - **Slide 2:** Comparativa mini de perfil confuso vs perfil claro (sin métricas).  
+   - **Slide 3:** Lista de errores con íconos de alerta (texto largo, sin zonas, sin CTA).  
+   - **Slide 4:** Wireframe simple de hero correcto con bloques señalados.  
+   - **Slide 5:** Checklist visual con checks verdes y estructura muy limpia.  
+   - **Slide 6:** Pantalla tipo chat de WhatsApp + CTA corto y directo.  
+12. **Recomendación de diseño:** Tipografía gruesa para titulares, máximo 12 palabras por bloque, alto contraste, colores cálidos de marca, estilo cercano de negocio local (no look corporativo).  
+13. **Copy sugerido:** “No necesitas una web complicada. Necesitas una web clara que le dé confianza a quien ya te está evaluando. Guarda este carrusel y compártelo con alguien que esté ordenando su presencia digital.”  
+14. **CTA final:** “Escríbenos ‘WEB’ por WhatsApp y te explicamos el proceso.”  
+15. **Asset requerido:** Carrusel 1080x1350 (6 slides) + portada reutilizable para story.  
+16. **Notas de producción:** Diseñar para lectura rápida en móvil; usar ejemplos de rubros locales (contractor, roofer, cleaner, handyman); mantener tono práctico y sin tecnicismos.  
+17. **Estado inicial:** pendiente
 
 ### Pieza 4
 1. **Número de pieza:** 4  
@@ -127,12 +143,18 @@
 5. **Tema:** Oferta principal del mes: página web para negocios latinos en New Jersey.  
 6. **Objetivo:** Comunicar oferta de entrada con claridad.  
 7. **Hook:** “Web primero, servicios complementarios después.”  
-8. **Idea del contenido:** Arte estático con titular claro + subtítulo de beneficio + CTA WhatsApp.  
-9. **Copy sugerido:** “Si tu negocio latino en NJ quiere verse profesional y generar más conversaciones, empieza por una web clara y confiable. Después, sumas lo demás.”  
-10. **CTA:** “Agenda por WhatsApp una llamada breve.”  
-11. **Asset requerido:** Diseño estático feed 1080x1350 + versión story 1080x1920.  
-12. **Notas de producción:** Visual sobrio, cercano y local; no saturar con lista de servicios; destacar WhatsApp.  
-13. **Estado inicial:** pendiente
+8. **Headline principal:** “Tu negocio se ve en persona. ¿Tu web también se ve profesional?”  
+9. **Subheadline:** “Para contratistas, roofers, cleaners, handymen y servicios locales en New Jersey.”  
+10. **Texto breve de apoyo:** “Empieza por una página web clara, confiable y lista para llevar contactos a WhatsApp.”  
+11. **Texto principal del arte:** “Web profesional para negocios latinos en NJ + contacto directo por WhatsApp.”  
+12. **CTA:** “Escríbenos por WhatsApp y te mostramos la estructura ideal para tu negocio.”  
+13. **Idea visual recomendada:** Mockup de celular mostrando home web + botón de WhatsApp destacado, acompañado de sello textual “Negocios latinos en NJ”.  
+14. **Jerarquía del mensaje:** 1) Dolor/atención (headline) → 2) Segmento específico (subheadline) → 3) Solución principal (web) → 4) Acción inmediata (WhatsApp).  
+15. **Recomendación de diseño:** Composición limpia en 2 bloques, titular dominante arriba, soporte corto al centro, CTA en botón visual inferior; contraste alto, pocos elementos, look profesional-cercano.  
+16. **Copy sugerido:** “Si hoy te buscan y no te ven claro online, estás perdiendo confianza antes de hablar con el cliente. Tu web debe ayudarte a abrir conversaciones, no a frenarlas.”  
+17. **Asset requerido:** Diseño estático feed 1080x1350 + versión story 1080x1920 + variante con CTA resaltado.  
+18. **Notas de producción:** Evitar listas largas de servicios; priorizar legibilidad del headline; incluir referencia local NJ en el arte; mantener tono humano y práctico.  
+19. **Estado inicial:** pendiente
 
 ### Pieza 7
 1. **Número de pieza:** 7  
@@ -172,12 +194,28 @@
 5. **Tema:** Checklist antes de hacer ads: presencia digital mínima viable.  
 6. **Objetivo:** Preparar a la audiencia para invertir con mejor criterio.  
 7. **Hook:** “Antes de hacer ads, arregla tu presencia digital.”  
-8. **Idea del contenido:** Slides con checklist: mensaje claro, web funcional, pruebas visibles, CTA WhatsApp, respuesta rápida.  
-9. **Copy sugerido:** “Hacer anuncios sin base clara suele salir caro. Guarda este checklist y úsalo antes de invertir en pauta.”  
-10. **CTA:** “Agenda por WhatsApp una llamada breve.”  
-11. **Asset requerido:** Carrusel 1080x1350 (5-6 slides), formato checklist.  
-12. **Notas de producción:** Diseño muy limpio, contraste alto, bullets cortos; orientar a acción práctica inmediata.  
-13. **Estado inicial:** pendiente
+8. **Texto de portada (Slide 1 / hook):** “Antes de pagar ads, revisa esto: tu presencia digital puede estar espantando clientes.”  
+9. **Secuencia lógica del mensaje:** Dolor por inversión mal aprovechada → error típico antes de pautar → filtro de preparación real → beneficio de ordenar primero → CTA a diagnóstico por WhatsApp.  
+10. **Texto slide por slide:**  
+   - **Slide 1 (portada fuerte):** “Antes de pagar ads, revisa esto: tu presencia digital puede estar espantando clientes.”  
+   - **Slide 2 (problema):** “Te llegan visitas, pero no mensajes. El problema muchas veces no es el anuncio, es lo que ven después.”  
+   - **Slide 3 (error común):** “Error común: correr ads con perfil confuso, web incompleta y sin CTA claro a WhatsApp.”  
+   - **Slide 4 (solución/criterio correcto):** “Filtro simple antes de pautar: mensaje claro + servicios visibles + zonas de NJ + prueba real + contacto fácil.”  
+   - **Slide 5 (acción práctica/beneficio):** “Si esto está ordenado, cada visita encuentra una presencia más clara y confiable.”  
+   - **Slide 6 (CTA final):** “Escríbenos ‘QUIERO WEB’ por WhatsApp y te contactamos.”  
+11. **Idea visual por slide:**  
+   - **Slide 1:** Fondo de dashboard de ads desenfocado + texto contundente.  
+   - **Slide 2:** Flecha “anuncio → perfil/web” con punto de fuga en contacto perdido.  
+   - **Slide 3:** Tarjetas de errores con iconos de alerta roja.  
+   - **Slide 4:** Checklist visual con cinco criterios y checks.  
+   - **Slide 5:** Gráfico simple de flujo ordenado (visita → confianza → mensaje).  
+   - **Slide 6:** Cierre limpio con burbuja WhatsApp y CTA central.  
+12. **Recomendación de diseño:** Estilo educativo con contraste alto, titulares cortos, una idea por slide, uso de verde para “criterio correcto” y rojo suave para “error común”.  
+13. **Copy sugerido:** “Pautar sin base digital clara suele quemar presupuesto y paciencia. Este carrusel te ayuda a decidir si ya estás listo para anuncios o si primero conviene ordenar tu presencia.”  
+14. **CTA final:** “Agenda por WhatsApp una llamada breve.”  
+15. **Asset requerido:** Carrusel 1080x1350 (6 slides) + versión story de Slide 1 y Slide 6.  
+16. **Notas de producción:** Enfocar ejemplos en servicios locales (contractor, roofer, cleaner, handyman); mantener lenguaje simple; no usar promesas ni métricas inventadas.  
+17. **Estado inicial:** pendiente
 
 ### Pieza 10
 1. **Número de pieza:** 10  
@@ -202,12 +240,18 @@
 5. **Tema:** Antes/después visual de presencia digital.  
 6. **Objetivo:** Reforzar credibilidad con evidencia visual (sin métricas inventadas).  
 7. **Hook:** “Así cambia la percepción cuando un negocio se ve profesional.”  
-8. **Idea del contenido:** Gráfico comparativo antes/después de presentación digital (orden visual, claridad, CTA visible).  
-9. **Copy sugerido:** “La diferencia no es solo estética. Una presencia más clara transmite seriedad y facilita que te contacten.”  
-10. **CTA:** “Pide por WhatsApp información sobre páginas web para tu negocio.”  
-11. **Asset requerido:** Diseño estático comparativo 1080x1350 + story.  
-12. **Notas de producción:** Si no hay caso real público, usar ejemplo demostrativo y etiquetarlo como referencial.  
-13. **Estado inicial:** pendiente
+8. **Headline principal:** “Mismo negocio. Diferente percepción.”  
+9. **Subheadline:** “Cuando tu presencia digital se ve clara, la confianza sube antes del primer mensaje.”  
+10. **Texto breve de apoyo:** “No se trata de ‘verse bonito’. Se trata de que te entiendan rápido y te contacten sin fricción.”  
+11. **Texto principal del arte:** “ANTES: confuso e improvisado / DESPUÉS: claro, profesional y listo para WhatsApp.”  
+12. **CTA:** “Pide información por WhatsApp sobre páginas web para tu negocio.”  
+13. **Idea visual recomendada:** Split-screen antes/después (misma marca), con diferencias en claridad de servicios, orden visual y botón de contacto visible.  
+14. **Jerarquía del mensaje:** 1) Transformación visual (antes/después) → 2) Beneficio de confianza → 3) Acción concreta por WhatsApp.  
+15. **Recomendación de diseño:** Comparativa 50/50 con etiquetas claras “ANTES” y “DESPUÉS”, colores consistentes de marca, texto mínimo y legible, foco en contraste de orden/profesionalismo.  
+16. **Copy sugerido:** “Tu cliente decide en segundos si te escribe o sigue buscando. Una presencia digital clara no garantiza ventas, pero sí te ayuda a generar más confianza desde el primer vistazo.”  
+17. **Asset requerido:** Diseño estático comparativo 1080x1350 + story 1080x1920 + versión referencial anotada si no hay caso público.  
+18. **Notas de producción:** Usar ejemplo real permitido o mockup referencial; evitar cifras no verificadas; destacar transformación en claridad y contacto, no en promesas de resultados.  
+19. **Estado inicial:** pendiente
 
 ### Pieza 12
 1. **Número de pieza:** 12  
