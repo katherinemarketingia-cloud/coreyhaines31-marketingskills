@@ -40,7 +40,51 @@ Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos 
 - Prioridad: contractors, roofers, remodeladores, cleaners, handymen y servicios locales.
 - Perfil común: negocios que ya se promocionan por recomendación/redes, pero con presencia digital débil o poco clara.
 
+## Estrategia de ubicación para presupuesto bajo
+
+- No abrir todo New Jersey + todo New York desde el inicio con $8–$9/día.
+- Empezar por ciudades específicas cercanas a la base de East Orange, NJ.
+- Usar ciudades específicas o ZIP codes cuando sea posible.
+- Si Meta Ads Manager lo permite, usar pines/radios pequeños como alternativa.
+- Evitar radios gigantes que cubran zonas poco relevantes para el servicio.
+- Ampliar cobertura solo cuando haya conversaciones útiles y calidad comercial consistente.
+
+### Área inicial recomendada
+
+**Prioridad 1**
+- East Orange
+- Newark
+- Elizabeth
+- Jersey City
+- Union City
+- North Bergen
+- Orange
+- Irvington
+
+**Prioridad 2**
+- Clifton
+- Passaic
+- Paterson
+- Bronx
+- Queens
+- Brooklyn
+
+**Prioridad 3**
+- Manhattan
+- Yonkers
+- Otras zonas de NY/NJ que el cliente confirme que puede atender
+
+### Nota operativa
+
+Antes de lanzar, validar con el cliente qué ciudades realmente atiende y cuáles no quiere cubrir.
+
+### Nota de configuración en Meta Ads Manager
+
+Si aparece la opción de tipo de ubicación, priorizar **personas que viven en el área**. Si esa opción no aparece en la cuenta, trabajar con ciudades/ZIP/radios controlados y revisar calidad de conversaciones en WhatsApp.
+
 ## 5) Embudo recomendado
+
+### Fase actual (WhatsApp-first)
 
 1. **Anuncio en Meta:** mensaje directo al dolor + oferta web + CTA a WhatsApp.
 2. **WhatsApp:** inicia conversación con mensaje prellenado.
@@ -65,9 +109,9 @@ Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos 
 
 ### Mezcla creativa recomendada en el mismo conjunto
 
-- 2 anuncios de video/Reels.
-- 1–2 carruseles.
-- 1–2 imágenes estáticas.
+- 2 Reels para atención/confianza.
+- 1 imagen/oferta para conversión directa.
+- 1 carrusel/checklist para educación/filtro.
 
 ### Razón estratégica
 
@@ -86,7 +130,7 @@ Mejorar confianza previa al chat y facilitar que negocios locales entiendan ráp
 #### Ángulos obligatorios
 
 1. Web profesional para generar confianza.
-2. Negocio latino en NJ que quiere verse más serio.
+2. Negocio latino en NJ/NY que quiere verse más serio.
 3. Contratistas que pierden oportunidades por presencia digital débil.
 4. Web + branding + WhatsApp como sistema simple de captación.
 
@@ -270,10 +314,15 @@ Estas piezas pueden reemplazar anuncios después de 7 días si los anuncios inic
    - Anuncio 2: Reel “Instagram no reemplaza una web…”
    - Anuncio 3: Carrusel “5 cosas que debe tener una web…”
    - Anuncio 4: Imagen/oferta “Web para negocios latinos en NJ/NY…”
+   - Estos 4 anuncios son un **test inicial**, no una verdad final:
+     - 2 Reels para atención/confianza.
+     - 1 imagen/oferta para conversión directa.
+     - 1 carrusel/checklist para educación/filtro.
+   - Después de 7 días, mantener o reemplazar según calidad de WhatsApp, no solo por métricas superficiales.
 9. **Configurar WhatsApp:**
    - Conectar WhatsApp Business.
    - Mensaje prellenado recomendado:
-     - “Hola AÜRA, quiero información sobre una página web para mi negocio.”
+     - “Hola AURA, quiero información sobre una página web para mi negocio.”
    - Crear respuestas rápidas para:
      - precio
      - qué incluye
@@ -329,8 +378,6 @@ Crear audiencias de:
 2. 1 imagen/oferta para conversión directa.
 3. 1 carrusel/checklist para educación/filtro.
 
-Los 4 anuncios elegidos son un test inicial, no una verdad final.
-
 Después de 7 días, mantener o reemplazar según calidad de WhatsApp, no solo por métricas superficiales.
 
 ## 12) Métricas y señales a revisar
@@ -352,6 +399,11 @@ Después de 7 días, mantener o reemplazar según calidad de WhatsApp, no solo p
 > Un clic barato sin intención comercial no es señal suficiente.
 
 ### Señales comerciales
+
+- El costo por conversación no debe evaluarse solo; debe cruzarse con calidad de conversación.
+- Una conversación más cara puede valer más si el lead tiene negocio real, está en NJ y pregunta por web.
+- Un clic barato sin intención comercial no es señal suficiente.
+
 
 - rubro del lead
 - ciudad
