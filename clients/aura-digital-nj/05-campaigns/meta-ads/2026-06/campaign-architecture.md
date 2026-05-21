@@ -26,26 +26,6 @@ Esto permite que Meta distribuya inversión entre creativos y encuentre señales
 
 Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos en NJ/NY que necesiten mejorar su presencia digital con una página web profesional.
 
-## Estrategia por fases: WhatsApp-first ahora, landing después
-
-### Fase 1 (actual)
-
-- AÜRA Digital todavía no tiene una web/landing propia lista para recibir tráfico.
-- Por eso, la estrategia de esta fase es **WhatsApp-first**: anuncios directos a WhatsApp.
-- El objetivo no es conseguir clics baratos, sino conversaciones útiles con negocios reales.
-- En esta fase se validan mensajes, rubros, ciudades y calidad de conversaciones.
-- **No enviar tráfico a una web inexistente o incompleta.**
-
-### Fase 2 (futura)
-
-- Cuando AÜRA tenga web/landing propia activa, se puede migrar a un flujo con landing.
-- Flujo recomendado de prueba: anuncio → landing/web → WhatsApp.
-- Beneficios esperados de fase 2:
-  - más contexto antes de que el lead escriba
-  - mejor validación del interés real
-  - posibilidad de pixel/eventos
-  - mejor aprendizaje para optimización futura
-
 ## 3) Oferta principal
 
 **Oferta principal:** páginas web para negocios latinos en New Jersey y zonas cercanas de New York.
@@ -213,13 +193,65 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 
 #### Descripciones sugeridas
 
-- “Mensajes directos para negocios latinos en NJ/NY.”
+- “Mensajes directos para negocios latinos en New Jersey y zonas cercanas de New York.”
 - “Enfoque práctico para servicios locales.”
 - “Habla con AÜRA por WhatsApp.”
 
 #### CTA
 
 - “Enviar mensaje” / “Escríbenos por WhatsApp”.
+
+
+
+## Estrategia por fases: WhatsApp-first ahora, landing después
+
+- **Fase 1 actual (WhatsApp-first):** anuncios hacia WhatsApp porque AÜRA aún no tiene web/landing activa propia.
+- **Objetivo de Fase 1:** validar mensajes, rubros, ciudades y calidad de conversaciones antes de complejizar el embudo.
+- **Fase 2 futura:** cuando exista landing/web propia, probar flujo anuncio → landing/web → WhatsApp.
+- **Beneficio de Fase 2:** más contexto para el prospecto, mejor validación previa, posibilidad de pixel/eventos y mejor aprendizaje futuro de campaña.
+- **Regla operativa:** no enviar tráfico a una web inexistente o incompleta.
+
+## Estrategia de ubicación para presupuesto bajo
+
+- No abrir todo New Jersey + todo New York desde el inicio.
+- Con **$8–$9/día**, la ubicación debe ser controlada para no diluir presupuesto.
+- Usar ciudades específicas o ZIP codes cuando sea posible.
+- Usar pines/radios pequeños si Meta Ads Manager lo permite.
+- Evitar radios gigantes que cubran zonas poco relevantes.
+- Empezar con ciudades cercanas a la base de East Orange, NJ.
+- Ampliar solo cuando haya conversaciones útiles.
+
+### Área inicial recomendada por prioridades
+
+**Prioridad 1**
+- East Orange
+- Newark
+- Elizabeth
+- Jersey City
+- Union City
+- North Bergen
+- Orange
+- Irvington
+
+**Prioridad 2**
+- Clifton
+- Passaic
+- Paterson
+- Bronx
+- Queens
+- Brooklyn
+
+**Prioridad 3**
+- Manhattan
+- Yonkers
+- otras zonas de NY/NJ que el cliente confirme que puede atender
+
+> Nota operativa: antes de lanzar, validar con el cliente qué ciudades exactas atiende, cuáles no quiere cubrir y si hay ZIP codes prioritarios.
+
+> Configuración de ubicación: en Meta Ads Manager, si aparece la opción de tipo de ubicación, priorizar personas que viven en el área. Si no aparece, trabajar con ciudades/ZIP/radios controlados y revisar calidad de conversaciones.
+
+
+
 
 ## Relación entre parrilla orgánica y anuncios de campaña
 
@@ -245,6 +277,7 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 - **Pieza 9:** Carrusel antes de hacer ads.
 
 Estas piezas pueden reemplazar anuncios después de 7 días si los anuncios iniciales no generan conversaciones útiles.
+
 
 ## 8) Guía paso a paso para configurar la campaña en Meta Ads Manager
 
@@ -289,7 +322,7 @@ Estas piezas pueden reemplazar anuncios después de 7 días si los anuncios inic
 9. **Configurar WhatsApp:**
    - Conectar WhatsApp Business.
    - Mensaje prellenado recomendado:
-     - “Hola AÜRA, quiero información sobre una página web para mi negocio.”
+     - “Hola AURA, quiero información sobre una página web para mi negocio.”
    - Crear respuestas rápidas para:
      - precio
      - qué incluye
@@ -345,7 +378,7 @@ Crear audiencias de:
 2. 1 imagen/oferta para conversión directa.
 3. 1 carrusel/checklist para educación/filtro.
 
-Cada 7 días revisar calidad de conversaciones, no solo métricas superficiales.
+Después de 7 días, mantener o reemplazar según calidad de WhatsApp, no solo por métricas superficiales.
 
 ## 12) Métricas y señales a revisar
 
@@ -358,6 +391,12 @@ Cada 7 días revisar calidad de conversaciones, no solo métricas superficiales.
 - costo por conversación
 - mensajes iniciados
 - clics a WhatsApp
+
+> El costo por conversación no debe evaluarse solo; debe cruzarse con calidad de conversación.
+>
+> Una conversación más cara puede valer más si el lead tiene negocio real, está en zona de servicio y pregunta por web.
+>
+> Un clic barato sin intención comercial no es señal suficiente.
 
 ### Señales comerciales
 
