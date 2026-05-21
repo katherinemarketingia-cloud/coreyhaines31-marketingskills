@@ -17,7 +17,7 @@ Para esta etapa inicial, la recomendación es **concentrar presupuesto y aprendi
 Con un presupuesto bajo (aprox. **$8–$9/día**) y sin data histórica, se propone una estructura simple alineada con la lógica actual de Meta/Andromeda:
 
 - 1 campaña principal de Leads/Mensajes hacia WhatsApp.
-- 1 conjunto de anuncios para el área de servicio NJ/NY cercana a East Orange, NJ.
+- 1 conjunto de anuncios para área de servicio NJ/NY cercana a East Orange, NJ.
 - 4 anuncios activos dentro del mismo conjunto, mezclando formatos.
 
 Esto permite que Meta distribuya inversión entre creativos y encuentre señales de conversación útil más rápido, sin fragmentar aprendizaje.
@@ -111,11 +111,11 @@ Si aparece la opción de tipo de ubicación, priorizar **personas que viven en e
 3. **Calificación:** rubro, ciudad, necesidad, urgencia y objetivo.
 4. **Llamada/propuesta:** envío de propuesta o siguiente paso comercial.
 
-### Fase futura (cuando exista landing/web propia)
+### Fase futura (cuando haya landing/web propia)
 
-1. **Anuncio en Meta:** mensaje directo al dolor + oferta web + CTA.
-2. **Landing/Web propia:** contexto, validación y filtro inicial.
-3. **WhatsApp:** contacto directo con lead más informado.
+1. **Anuncio en Meta:** mensaje directo al dolor + oferta web + CTA principal.
+2. **Landing/web propia:** contexto, casos, oferta y validación básica.
+3. **WhatsApp:** inicia conversación con mensaje prellenado.
 4. **Calificación:** rubro, ciudad, necesidad, urgencia y objetivo.
 5. **Propuesta:** envío de propuesta o siguiente paso comercial.
 
@@ -223,16 +223,28 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 
 ## Relación entre parrilla orgánica y anuncios de campaña
 
+- La campaña no parte de cero; toma los mejores ángulos de la parrilla mensual.
+- Los anuncios iniciales se basan en piezas orgánicas específicas ya planificadas para el periodo.
+- El copy de pauta debe ser más directo, más filtrado y con CTA claro a WhatsApp.
+- Las piezas pautadas pueden optimizarse sin cambiar el sentido estratégico original.
+
 ### Piezas de parrilla seleccionadas para pauta inicial
 
-- Anuncio 1 → Pieza 1: “Antes de pagar publicidad, revisa tu presencia digital”.
-- Anuncio 2 → Pieza 4: “Instagram no reemplaza una página web”.
-- Anuncio 3 → Pieza 3: “5 cosas que debe tener una web para generar confianza”.
-- Anuncio 4 → Pieza 6: “Página web para negocios latinos”.
+| Pieza de parrilla | Formato orgánico | Tema original | Uso en campaña | Tipo de anuncio | Objetivo del anuncio | Ajuste necesario para pauta |
+|---|---|---|---|---|---|---|
+| Pieza 1 | Reel | Antes de pagar publicidad, revisa tu presencia digital | Dolor/awareness | Reel Ad | Atraer contratistas y servicios locales que consideran pauta pero no tienen base digital clara | Hook más directo y zona NJ/NY cercana |
+| Pieza 4 | Reel | Instagram no reemplaza una web | Objeción común/educación | Reel Ad | Educar negocios que dependen solo de Instagram | Reforzar flujo Instagram → web → WhatsApp |
+| Pieza 3 | Carrusel | 5 cosas que debe tener una web | Educación/filtro | Carrusel Ad | Filtrar leads que entienden que necesitan mejorar su web | Slide final con CTA a WhatsApp |
+| Pieza 6 | Estática | Oferta de página web para negocios latinos | Conversión directa | Imagen Ad | Comunicar oferta principal | Ampliar a NJ/NY cercano y CTA directo |
 
 ### Piezas de respaldo para futuras iteraciones
 
-- Piezas 2, 5, 7, 8, 9, 10, 11 y 12 para nuevas rondas creativas según calidad de conversaciones en WhatsApp.
+- **Pieza 10:** Reel Web + WhatsApp como sistema simple.
+- **Pieza 12:** Reel cierre/oferta local.
+- **Pieza 11:** Estática antes/después visual.
+- **Pieza 9:** Carrusel antes de hacer ads.
+
+Estas piezas pueden reemplazar anuncios después de 7 días si los anuncios iniciales no generan conversaciones útiles.
 
 ## 8) Guía paso a paso para configurar la campaña en Meta Ads Manager
 
