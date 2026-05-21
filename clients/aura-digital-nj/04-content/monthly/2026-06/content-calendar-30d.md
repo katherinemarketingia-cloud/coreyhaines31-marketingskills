@@ -42,6 +42,20 @@
 | 11 | 2026-06-15 | Instagram | Estático | Prueba y transformación | Antes/después visual de presencia digital | Aportar prueba visual sin inventar métricas | Así cambia la percepción cuando un negocio se ve profesional | Escríbenos por WhatsApp para revisar cómo se ve hoy tu negocio | pendiente |
 | 12 | 2026-06-18 | Instagram | Reel | Conversión/oferta | Diferenciador local + cierre de periodo | Cerrar ciclo con oferta clara y cercana | AÜRA Digital en New Jersey: aliado local para negocios latinos que quieren verse profesionales | Envíanos “QUIERO WEB” por WhatsApp y te contactamos | pendiente |
 
+
+
+## Piezas seleccionadas para pauta inicial
+
+| Pieza | Formato orgánico | Tema | Uso en campaña | Tipo de anuncio | Ajuste para pauta |
+|---|---|---|---|---|---|
+| Pieza 1 | Reel | Antes de pagar publicidad, revisa tu presencia digital | Dolor/awareness | Reel Ad | Hook más directo, zona ampliada a NJ/NY cercano, CTA a WhatsApp |
+| Pieza 4 | Reel | Instagram no reemplaza una página web | Objeción común/educación | Reel Ad | Reforzar flujo Instagram → web → WhatsApp |
+| Pieza 3 | Carrusel | 5 cosas que debe tener una web para generar confianza | Educación/filtro | Carrusel Ad | Slide final más comercial con CTA a WhatsApp |
+| Pieza 6 | Estática | Página web para negocios latinos | Conversión directa | Imagen Ad | Ampliar mensaje a NJ/NY cercano y CTA directo |
+
+> Estas piezas se usarán como base para los 4 anuncios iniciales. La versión de pauta puede adaptar hook, copy y CTA para ser más directa, pero debe mantener el mensaje estratégico original.
+
+
 ## Briefs por pieza (12/12)
 
 ### Pieza 1
@@ -58,6 +72,7 @@
 11. **Asset requerido:** Video vertical 9:16 (vocero), texto en pantalla con 3 bullets, portada Reel.  
 12. **Notas de producción:** Toma exterior/local en East Orange o Newark para reforzar NJ; ritmo ágil; subtítulos grandes; evitar tecnicismos.  
 13. **Estado inicial:** pendiente
+14. **Uso en pauta inicial:** Sí / basado en esta pieza para Meta Ads.
 
 ### Pieza 2
 1. **Número de pieza:** 2  
@@ -73,6 +88,7 @@
 11. **Asset requerido:** Video 9:16 + 2 capturas de ejemplo (antes/después visual, sin métricas).  
 12. **Notas de producción:** Usar lenguaje cotidiano; resaltar ‘confianza’ en texto overlay; cierre con contacto claro.  
 13. **Estado inicial:** pendiente
+14. **Uso en pauta inicial:** No / pieza orgánica o posible respaldo futuro.
 
 ### Pieza 3
 1. **Número de pieza:** 3  
@@ -104,6 +120,7 @@
 15. **Asset requerido:** Carrusel 1080x1350 (6 slides) + portada reutilizable para story.  
 16. **Notas de producción:** Diseñar para lectura rápida en móvil; usar ejemplos de rubros locales (contractor, roofer, cleaner, handyman); mantener tono práctico y sin tecnicismos.  
 17. **Estado inicial:** pendiente
+18. **Uso en pauta inicial:** Sí / basado en esta pieza para Meta Ads.
 
 ### Pieza 4
 1. **Número de pieza:** 4  
@@ -119,6 +136,7 @@
 11. **Asset requerido:** Video 9:16 + gráfico simple del flujo en postproducción.  
 12. **Notas de producción:** Visuales de móvil/navegación rápida; mantener video <35 segundos; subtítulos obligatorios.  
 13. **Estado inicial:** pendiente
+14. **Uso en pauta inicial:** Sí / basado en esta pieza para Meta Ads.
 
 ### Pieza 5
 1. **Número de pieza:** 5  
@@ -134,6 +152,7 @@
 11. **Asset requerido:** Video 9:16 tipo lista + rótulos por punto.  
 12. **Notas de producción:** Grabar con energía alta; usar ejemplos de rubros latinos locales; evitar hablar de herramientas técnicas.  
 13. **Estado inicial:** pendiente
+14. **Uso en pauta inicial:** No / pieza orgánica o posible respaldo futuro.
 
 ### Pieza 6
 1. **Número de pieza:** 6  
@@ -155,6 +174,7 @@
 17. **Asset requerido:** Diseño estático feed 1080x1350 + versión story 1080x1920 + variante con CTA resaltado.  
 18. **Notas de producción:** Evitar listas largas de servicios; priorizar legibilidad del headline; incluir referencia local NJ en el arte; mantener tono humano y práctico.  
 19. **Estado inicial:** pendiente
+20. **Uso en pauta inicial:** Sí / basado en esta pieza para Meta Ads.
 
 ### Pieza 7
 1. **Número de pieza:** 7  
@@ -170,6 +190,7 @@
 11. **Asset requerido:** Reel 9:16 + overlays con numeración 1/2/3.  
 12. **Notas de producción:** Incluir mención local verbal y textual (East Orange, Newark o Elizabeth); usar entorno real del negocio/localidad.  
 13. **Estado inicial:** pendiente
+14. **Uso en pauta inicial:** No / pieza orgánica o posible respaldo futuro.
 
 ### Pieza 8
 1. **Número de pieza:** 8  
@@ -185,6 +206,7 @@
 11. **Asset requerido:** Video 9:16 con transiciones de 3 bloques.  
 12. **Notas de producción:** Mantener tono humano y cercano; sin claims de resultados garantizados; cierre fuerte con CTA.  
 13. **Estado inicial:** pendiente
+14. **Uso en pauta inicial:** No / pieza orgánica o posible respaldo futuro.
 
 ### Pieza 9
 1. **Número de pieza:** 9  
@@ -216,6 +238,7 @@
 15. **Asset requerido:** Carrusel 1080x1350 (6 slides) + versión story de Slide 1 y Slide 6.  
 16. **Notas de producción:** Enfocar ejemplos en servicios locales (contractor, roofer, cleaner, handyman); mantener lenguaje simple; no usar promesas ni métricas inventadas.  
 17. **Estado inicial:** pendiente
+18. **Uso en pauta inicial:** No / pieza orgánica o posible respaldo futuro para carrusel educativo antes de ads.
 
 ### Pieza 10
 1. **Número de pieza:** 10  
@@ -231,6 +254,7 @@
 11. **Asset requerido:** Reel 9:16 con gráfica de flujo y captura de botón WhatsApp.  
 12. **Notas de producción:** Enfatizar simplicidad; ritmo dinámico; mantener lenguaje no técnico.  
 13. **Estado inicial:** pendiente
+14. **Uso en pauta inicial:** No / pieza orgánica o posible respaldo futuro para anuncio de Web + WhatsApp.
 
 ### Pieza 11
 1. **Número de pieza:** 11  
@@ -252,6 +276,7 @@
 17. **Asset requerido:** Diseño estático comparativo 1080x1350 + story 1080x1920 + versión referencial anotada si no hay caso público.  
 18. **Notas de producción:** Usar ejemplo real permitido o mockup referencial; evitar cifras no verificadas; destacar transformación en claridad y contacto, no en promesas de resultados.  
 19. **Estado inicial:** pendiente
+20. **Uso en pauta inicial:** No / pieza orgánica o posible respaldo futuro para prueba visual.
 
 ### Pieza 12
 1. **Número de pieza:** 12  
@@ -267,6 +292,7 @@
 11. **Asset requerido:** Reel 9:16 tipo cierre mensual, vocero + textos clave.  
 12. **Notas de producción:** Cierre emocional de cercanía; mencionar NJ y ciudades como Paterson o Jersey City; CTA muy visible en últimos 3 segundos.  
 13. **Estado inicial:** pendiente
+14. **Uso en pauta inicial:** No / pieza orgánica o posible respaldo futuro para anuncio de cierre/oferta local.
 
 ## Requerimientos de diseño y video
 
