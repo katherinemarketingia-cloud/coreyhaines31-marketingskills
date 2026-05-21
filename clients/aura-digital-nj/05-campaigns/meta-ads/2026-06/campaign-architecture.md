@@ -14,18 +14,38 @@ Para esta etapa inicial, la recomendación es **concentrar presupuesto y aprendi
 Con un presupuesto bajo (aprox. **$8–$9/día**) y sin data histórica, se propone una estructura simple alineada con la lógica actual de Meta/Andromeda:
 
 - 1 campaña principal de Leads/Mensajes hacia WhatsApp.
-- 1 conjunto de anuncios para New Jersey.
+- 1 conjunto de anuncios para el área de servicio NJ/NY cercana a East Orange, NJ.
 - 4 a 6 anuncios dentro del mismo conjunto, mezclando formatos.
 
 Esto permite que Meta distribuya inversión entre creativos y encuentre señales de conversación útil más rápido, sin fragmentar aprendizaje.
 
 ## 2) Objetivo general
 
-Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos en New Jersey que necesiten mejorar su presencia digital con una página web profesional.
+Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos en el área de servicio NJ/NY cercana a East Orange, NJ, que necesiten mejorar su presencia digital con una página web profesional.
+
+## Estrategia por fases: WhatsApp-first ahora, landing después
+
+### Fase 1 (actual)
+
+- AÜRA Digital todavía no tiene una web/landing propia lista para recibir tráfico.
+- Por eso, la estrategia de esta fase es **WhatsApp-first**: anuncios directos a WhatsApp.
+- El objetivo no es conseguir clics baratos, sino conversaciones útiles con negocios reales.
+- En esta fase se validan mensajes, rubros, ciudades y calidad de conversaciones.
+- **No enviar tráfico a una web inexistente o incompleta.**
+
+### Fase 2 (futura)
+
+- Cuando AÜRA tenga web/landing propia activa, se puede migrar a un flujo con landing.
+- Flujo recomendado de prueba: anuncio → landing/web → WhatsApp.
+- Beneficios esperados de fase 2:
+  - más contexto antes de que el lead escriba
+  - mejor validación del interés real
+  - posibilidad de pixel/eventos
+  - mejor aprendizaje para optimización futura
 
 ## 3) Oferta principal
 
-**Oferta principal:** páginas web para negocios latinos en New Jersey.
+**Oferta principal:** páginas web para negocios latinos en NJ/NY (con foco inicial en el área cercana a East Orange, NJ).
 
 **Propuesta de entrada:** web profesional enfocada en claridad, confianza y contacto rápido por WhatsApp.
 
@@ -33,15 +53,66 @@ Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos 
 
 ## 4) Audiencia objetivo
 
-- Dueños y operadores de negocios latinos/hispanos en New Jersey.
+- Dueños y operadores de negocios latinos/hispanos en el área de servicio NJ/NY cercana a East Orange, NJ.
 - Prioridad: contractors, roofers, remodeladores, cleaners, handymen y servicios locales.
 - Perfil común: negocios que ya se promocionan por recomendación/redes, pero con presencia digital débil o poco clara.
 
+## Estrategia de ubicación para presupuesto bajo
+
+- No abrir todo New Jersey + todo New York desde el inicio con $8–$9/día.
+- Empezar por ciudades específicas cercanas a la base de East Orange, NJ.
+- Usar ciudades específicas o ZIP codes cuando sea posible.
+- Si Meta Ads Manager lo permite, usar pines/radios pequeños como alternativa.
+- Evitar radios gigantes que cubran zonas poco relevantes para el servicio.
+- Ampliar cobertura solo cuando haya conversaciones útiles y calidad comercial consistente.
+
+### Área inicial recomendada
+
+**Prioridad 1**
+- East Orange
+- Newark
+- Elizabeth
+- Jersey City
+- Union City
+- North Bergen
+- Orange
+- Irvington
+
+**Prioridad 2**
+- Clifton
+- Passaic
+- Paterson
+- Bronx
+- Queens
+- Brooklyn
+
+**Prioridad 3**
+- Manhattan
+- Yonkers
+- Otras zonas de NY/NJ que el cliente confirme que puede atender
+
+### Nota operativa
+
+Antes de lanzar, validar con el cliente qué ciudades realmente atiende y cuáles no quiere cubrir.
+
+### Nota de configuración en Meta Ads Manager
+
+Si aparece la opción de tipo de ubicación, priorizar **personas que viven en el área**. Si esa opción no aparece en la cuenta, trabajar con ciudades/ZIP/radios controlados y revisar calidad de conversaciones en WhatsApp.
+
 ## 5) Embudo recomendado
 
+### Fase actual (WhatsApp-first)
+
 1. **Anuncio en Meta:** mensaje directo al dolor + oferta web + CTA a WhatsApp.
-2. **Validación rápida (perfil/web):** el prospecto revisa credibilidad básica.
-3. **WhatsApp:** inicia conversación con mensaje prellenado.
+2. **WhatsApp:** inicia conversación con mensaje prellenado.
+3. **Calificación:** rubro, ciudad, necesidad, urgencia y objetivo.
+4. **Llamada/propuesta:** siguiente paso comercial según perfil del lead.
+
+### Fase futura (cuando exista landing/web propia)
+
+1. **Anuncio en Meta:** mensaje directo al dolor + oferta web + CTA.
+2. **Landing/Web propia:** contexto, validación y filtro inicial.
+3. **WhatsApp:** contacto directo con lead más informado.
 4. **Calificación:** rubro, ciudad, necesidad, urgencia y objetivo.
 5. **Propuesta:** envío de propuesta o siguiente paso comercial.
 
@@ -50,7 +121,7 @@ Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos 
 ### Estructura principal
 
 - **Campaña:** 1 campaña de Leads o Mensajes (según disponibilidad de la cuenta), con WhatsApp como destino principal.
-- **Conjunto de anuncios:** 1 conjunto inicial orientado a New Jersey.
+- **Conjunto de anuncios:** 1 conjunto inicial orientado al área de servicio NJ/NY cercana a East Orange, NJ.
 - **Anuncios:** 4 a 6 anuncios activos al inicio.
 
 ### Mezcla creativa recomendada en el mismo conjunto
@@ -76,14 +147,14 @@ Mejorar confianza previa al chat y facilitar que negocios locales entiendan ráp
 #### Ángulos obligatorios
 
 1. Web profesional para generar confianza.
-2. Negocio latino en NJ que quiere verse más serio.
+2. Negocio latino en NJ/NY que quiere verse más serio.
 3. Contratistas que pierden oportunidades por presencia digital débil.
 4. Web + branding + WhatsApp como sistema simple de captación.
 
 #### Copies base (ajustados sin promesas fuertes)
 
 - “Tu negocio puede trabajar excelente, pero si tu presencia digital se ve improvisada, muchas personas no te escriben. En AÜRA Digital te ayudamos a crear una web profesional que **facilita que te contacten** por WhatsApp.”
-- “Si tienes un negocio latino en New Jersey, tu imagen online debe hablar por ti cuando estás en campo. Diseñamos webs claras que **mejoran la confianza antes de la conversación**.”
+- “Si tienes un negocio latino en NJ/NY, tu imagen online debe hablar por ti cuando estás en campo. Diseñamos webs claras que **mejoran la confianza antes de la conversación**.”
 - “Muchos contratistas no reciben suficientes mensajes porque su presencia digital es débil o confusa. Una web clara **puede ayudarte a convertir mejor el interés** en conversaciones reales.”
 - “No necesitas complicarte con varios proveedores. Web + branding + WhatsApp crea un sistema simple que **hace más fácil que el cliente entienda y escriba**.”
 
@@ -112,17 +183,17 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 
 #### Ángulos obligatorios
 
-1. Si eres contratista en New Jersey, esto te interesa.
+1. Si eres contratista en NJ o NY cercano, esto te interesa.
 2. Tu web puede ayudarte a cerrar más clientes. *(reformulado en copy para mantener tono cuidadoso)*
 3. Antes de pagar ads, asegúrate de verte confiable.
 4. AÜRA integra web, branding y publicidad local en un solo sistema.
 
 #### Scripts breves sugeridos (ajustados)
 
-- **Script 1:** “Si eres contratista en New Jersey, revisa esto: tu presencia digital puede estar frenando contactos. En AÜRA te ayudamos a ordenarla para que sea más fácil pasar de interés a conversación por WhatsApp.”
+- **Script 1:** “Si eres contratista en NJ o NY cercano, revisa esto: tu presencia digital puede estar frenando contactos. En AÜRA te ayudamos a ordenarla para que sea más fácil pasar de interés a conversación por WhatsApp.”
 - **Script 2:** “Instagram ayuda, pero no reemplaza una web clara. Tu web puede **facilitar que te contacten** y entender mejor tu servicio antes de escribirte.”
 - **Script 3:** “Antes de invertir más en publicidad, asegúrate de que tu negocio se vea confiable. Primero ordena tu mensaje y tu web; así **puede mejorar la calidad de las conversaciones**.”
-- **Script 4:** “AÜRA integra web, branding y publicidad local para negocios latinos en NJ. Un sistema práctico para mejorar confianza y facilitar el contacto por WhatsApp.”
+- **Script 4:** “AÜRA integra web, branding y publicidad local para negocios latinos en New Jersey y zonas cercanas de New York. Un sistema práctico para mejorar confianza y facilitar el contacto por WhatsApp.”
 
 #### Copies base
 
@@ -139,7 +210,7 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 
 #### Descripciones sugeridas
 
-- “Mensajes directos para negocios latinos en New Jersey.”
+- “Mensajes directos para negocios latinos en NJ/NY.”
 - “Enfoque práctico para servicios locales.”
 - “Habla con AÜRA por WhatsApp.”
 
@@ -158,7 +229,7 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
    - Presupuesto diario: **$8–$9**.
    - No usar presupuesto lifetime al inicio si aún no se domina la plataforma.
 5. **Configurar conjunto de anuncios:**
-   - Ubicación: New Jersey.
+   - Ubicación: área de servicio NJ/NY cercana a East Orange, NJ.
    - Prioridad local en mensaje: East Orange, Newark, Elizabeth, Paterson, Jersey City.
    - Edad sugerida: 23–60 (**pendiente de validar**).
    - Idioma: español (si la opción aparece disponible).
@@ -182,6 +253,11 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
    - Anuncio 2: Reel “Instagram no reemplaza una web…”
    - Anuncio 3: Carrusel “5 cosas que debe tener una web…”
    - Anuncio 4: Imagen/oferta “Web para negocios latinos en NJ…”
+   - Estos 4 anuncios son un **test inicial**, no una verdad final:
+     - 2 Reels para atención/confianza.
+     - 1 imagen/oferta para conversión directa.
+     - 1 carrusel/checklist para educación/filtro.
+   - Después de 7 días, mantener o reemplazar según calidad de WhatsApp, no solo por métricas superficiales.
 9. **Configurar WhatsApp:**
    - Conectar WhatsApp Business.
    - Mensaje prellenado recomendado:
@@ -211,9 +287,9 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 ## 10) Recomendación de segmentación para cuenta nueva
 
 - No sobresegmentar.
-- Mantener ubicación (New Jersey) como filtro principal.
+- Mantener como filtro principal el área de servicio NJ/NY cercana a East Orange, NJ.
 - Usar el creativo como filtro natural del tipo de prospecto.
-- Hablar explícitamente a negocios latinos en NJ: contractors, roofers, cleaners, handymen y servicios locales.
+- Hablar explícitamente a negocios latinos en NJ/NY: contractors, roofers, cleaners, handymen y servicios locales.
 - Usar intereses amplios solo como señales iniciales.
 - No depender de lookalikes porque aún no hay data suficiente.
 - No depender de remarketing porque aún no hay volumen suficiente.
@@ -256,6 +332,11 @@ Cada 7 días revisar calidad de conversaciones, no solo métricas superficiales.
 - clics a WhatsApp
 
 ### Señales comerciales
+
+- El costo por conversación no debe evaluarse solo; debe cruzarse con calidad de conversación.
+- Una conversación más cara puede valer más si el lead tiene negocio real, está en NJ y pregunta por web.
+- Un clic barato sin intención comercial no es señal suficiente.
+
 
 - rubro del lead
 - ciudad
