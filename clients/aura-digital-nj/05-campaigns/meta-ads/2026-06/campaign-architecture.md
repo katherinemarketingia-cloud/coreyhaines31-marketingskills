@@ -167,8 +167,8 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 #### Ángulos obligatorios
 
 1. Si eres contratista en NJ o NY cercano, esto te interesa.
-2. Tu web puede ayudarte a cerrar más clientes. *(reformulado en copy para mantener tono cuidadoso)*
-3. Antes de pagar ads, asegúrate de verte confiable.
+2. Tu web puede ayudarte a generar más confianza antes de la conversación. *(reformulado en copy para mantener tono cuidadoso)*
+3. Antes de pagar ads, asegúrate de verte confiable
 4. AÜRA integra web, branding y publicidad local en un solo sistema.
 
 #### Scripts breves sugeridos (ajustados)
@@ -182,7 +182,7 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 
 - “Si tu negocio local depende de recomendaciones, una web profesional **hace más fácil que el cliente entienda y escriba**.”
 - “Muchos negocios invierten en anuncios sin base digital clara. Empieza por una presencia ordenada que **mejore la confianza antes de la conversación**.”
-- “Atrae conversaciones de mejor calidad con una oferta clara, una web profesional y CTA directo a WhatsApp.”
+- “Busca conversaciones de mejor calidad con una oferta clara, una web profesional y CTA directo a WhatsApp.”
 
 #### Titulares sugeridos
 
@@ -400,11 +400,6 @@ Después de 7 días, mantener o reemplazar según calidad de WhatsApp, no solo p
 
 ### Señales comerciales
 
-- El costo por conversación no debe evaluarse solo; debe cruzarse con calidad de conversación.
-- Una conversación más cara puede valer más si el lead tiene negocio real, está en NJ y pregunta por web.
-- Un clic barato sin intención comercial no es señal suficiente.
-
-
 - rubro del lead
 - ciudad
 - si tiene negocio real
@@ -438,7 +433,7 @@ Después de 7 días, mantener o reemplazar según calidad de WhatsApp, no solo p
 - No pausar por ansiedad en las primeras 72 horas.
 - Pausar creativos solo si atraen mensajes irrelevantes.
 - Mantener creativos que generan conversaciones alineadas aunque tengan menos likes.
-- Si llegan mensajes de baja calidad, ajustar copy para filtrar mejor.
+- Si llegan mensajes de baja calidad, ajustar el copy para filtrar mejor.
 - Si no llegan mensajes, revisar:
   - claridad de oferta
   - WhatsApp conectado
