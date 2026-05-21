@@ -1,11 +1,14 @@
-# Arquitectura Inicial de Meta Ads — AÜRA Digital (NJ)
+# Arquitectura Inicial de Meta Ads — AÜRA Digital (NJ/NY)
 
 - Cliente: `aura-digital-nj`
 - Periodo interno: `2026-05-20_to_2026-06-20`
 - Periodo visible: **mayo 20 a junio 20 de 2026**
 - Contexto de cuenta: **cuenta nueva de Meta Ads, sin historial de campañas, leads ni audiencias propias**.
-- Objetivo comercial: vender páginas web a negocios latinos en New Jersey.
+- Objetivo comercial: vender páginas web a negocios latinos en NJ/NY (New Jersey y zonas cercanas de New York).
+- Área base: East Orange, New Jersey.
+- Área de servicio inicial: NJ/NY cercana a East Orange, NJ.
 - Conversión principal: conversaciones por WhatsApp.
+- Fase actual: WhatsApp-first (sin web/landing propia activa todavía).
 
 ## 1) Resumen ejecutivo de campaña
 
@@ -15,13 +18,13 @@ Con un presupuesto bajo (aprox. **$8–$9/día**) y sin data histórica, se prop
 
 - 1 campaña principal de Leads/Mensajes hacia WhatsApp.
 - 1 conjunto de anuncios para el área de servicio NJ/NY cercana a East Orange, NJ.
-- 4 a 6 anuncios dentro del mismo conjunto, mezclando formatos.
+- 4 anuncios activos dentro del mismo conjunto, mezclando formatos.
 
 Esto permite que Meta distribuya inversión entre creativos y encuentre señales de conversación útil más rápido, sin fragmentar aprendizaje.
 
 ## 2) Objetivo general
 
-Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos en el área de servicio NJ/NY cercana a East Orange, NJ, que necesiten mejorar su presencia digital con una página web profesional.
+Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos en NJ/NY que necesiten mejorar su presencia digital con una página web profesional.
 
 ## Estrategia por fases: WhatsApp-first ahora, landing después
 
@@ -45,7 +48,7 @@ Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos 
 
 ## 3) Oferta principal
 
-**Oferta principal:** páginas web para negocios latinos en NJ/NY (con foco inicial en el área cercana a East Orange, NJ).
+**Oferta principal:** páginas web para negocios latinos en New Jersey y zonas cercanas de New York.
 
 **Propuesta de entrada:** web profesional enfocada en claridad, confianza y contacto rápido por WhatsApp.
 
@@ -53,7 +56,7 @@ Generar conversaciones calificadas por WhatsApp con dueños de negocios latinos 
 
 ## 4) Audiencia objetivo
 
-- Dueños y operadores de negocios latinos/hispanos en el área de servicio NJ/NY cercana a East Orange, NJ.
+- Dueños y operadores de negocios latinos/hispanos en New Jersey y zonas cercanas de New York.
 - Prioridad: contractors, roofers, remodeladores, cleaners, handymen y servicios locales.
 - Perfil común: negocios que ya se promocionan por recomendación/redes, pero con presencia digital débil o poco clara.
 
@@ -106,7 +109,7 @@ Si aparece la opción de tipo de ubicación, priorizar **personas que viven en e
 1. **Anuncio en Meta:** mensaje directo al dolor + oferta web + CTA a WhatsApp.
 2. **WhatsApp:** inicia conversación con mensaje prellenado.
 3. **Calificación:** rubro, ciudad, necesidad, urgencia y objetivo.
-4. **Llamada/propuesta:** siguiente paso comercial según perfil del lead.
+4. **Llamada/propuesta:** envío de propuesta o siguiente paso comercial.
 
 ### Fase futura (cuando exista landing/web propia)
 
@@ -121,14 +124,14 @@ Si aparece la opción de tipo de ubicación, priorizar **personas que viven en e
 ### Estructura principal
 
 - **Campaña:** 1 campaña de Leads o Mensajes (según disponibilidad de la cuenta), con WhatsApp como destino principal.
-- **Conjunto de anuncios:** 1 conjunto inicial orientado al área de servicio NJ/NY cercana a East Orange, NJ.
-- **Anuncios:** 4 a 6 anuncios activos al inicio.
+- **Conjunto de anuncios:** 1 conjunto inicial orientado a área de servicio NJ/NY cercana a East Orange, NJ.
+- **Anuncios:** 4 anuncios activos al inicio.
 
 ### Mezcla creativa recomendada en el mismo conjunto
 
-- 2 anuncios de video/Reels.
-- 1–2 carruseles.
-- 1–2 imágenes estáticas.
+- 2 Reels para atención/confianza.
+- 1 imagen/oferta para conversión directa.
+- 1 carrusel/checklist para educación/filtro.
 
 ### Razón estratégica
 
@@ -193,7 +196,7 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 - **Script 1:** “Si eres contratista en NJ o NY cercano, revisa esto: tu presencia digital puede estar frenando contactos. En AÜRA te ayudamos a ordenarla para que sea más fácil pasar de interés a conversación por WhatsApp.”
 - **Script 2:** “Instagram ayuda, pero no reemplaza una web clara. Tu web puede **facilitar que te contacten** y entender mejor tu servicio antes de escribirte.”
 - **Script 3:** “Antes de invertir más en publicidad, asegúrate de que tu negocio se vea confiable. Primero ordena tu mensaje y tu web; así **puede mejorar la calidad de las conversaciones**.”
-- **Script 4:** “AÜRA integra web, branding y publicidad local para negocios latinos en New Jersey y zonas cercanas de New York. Un sistema práctico para mejorar confianza y facilitar el contacto por WhatsApp.”
+- **Script 4:** “AÜRA integra web, branding y publicidad local para negocios latinos en NJ/NY. Un sistema práctico para mejorar confianza y facilitar el contacto por WhatsApp.”
 
 #### Copies base
 
@@ -218,6 +221,19 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 
 - “Enviar mensaje” / “Escríbenos por WhatsApp”.
 
+## Relación entre parrilla orgánica y anuncios de campaña
+
+### Piezas de parrilla seleccionadas para pauta inicial
+
+- Anuncio 1 → Pieza 1: “Antes de pagar publicidad, revisa tu presencia digital”.
+- Anuncio 2 → Pieza 4: “Instagram no reemplaza una página web”.
+- Anuncio 3 → Pieza 3: “5 cosas que debe tener una web para generar confianza”.
+- Anuncio 4 → Pieza 6: “Página web para negocios latinos”.
+
+### Piezas de respaldo para futuras iteraciones
+
+- Piezas 2, 5, 7, 8, 9, 10, 11 y 12 para nuevas rondas creativas según calidad de conversaciones en WhatsApp.
+
 ## 8) Guía paso a paso para configurar la campaña en Meta Ads Manager
 
 1. **Entrar a Meta Ads Manager** con la cuenta del negocio.
@@ -230,7 +246,7 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
    - No usar presupuesto lifetime al inicio si aún no se domina la plataforma.
 5. **Configurar conjunto de anuncios:**
    - Ubicación: área de servicio NJ/NY cercana a East Orange, NJ.
-   - Prioridad local en mensaje: East Orange, Newark, Elizabeth, Paterson, Jersey City.
+   - Prioridad local en mensaje: East Orange, Newark, Elizabeth, Jersey City, Union City, North Bergen, Orange, Irvington.
    - Edad sugerida: 23–60 (**pendiente de validar**).
    - Idioma: español (si la opción aparece disponible).
    - Activar Advantage+ Audience si está disponible.
@@ -249,10 +265,10 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
    - Usar Advantage+ placements al inicio.
    - Revisar después en qué ubicaciones llegan conversaciones reales.
 8. **Crear anuncios iniciales (4 activos):**
-   - Anuncio 1: Reel “Si eres contratista en New Jersey…”
+   - Anuncio 1: Reel “Si eres contratista en NJ o NY cercano…”
    - Anuncio 2: Reel “Instagram no reemplaza una web…”
    - Anuncio 3: Carrusel “5 cosas que debe tener una web…”
-   - Anuncio 4: Imagen/oferta “Web para negocios latinos en NJ…”
+   - Anuncio 4: Imagen/oferta “Web para negocios latinos en NJ/NY…”
    - Estos 4 anuncios son un **test inicial**, no una verdad final:
      - 2 Reels para atención/confianza.
      - 1 imagen/oferta para conversión directa.
@@ -287,7 +303,7 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 ## 10) Recomendación de segmentación para cuenta nueva
 
 - No sobresegmentar.
-- Mantener como filtro principal el área de servicio NJ/NY cercana a East Orange, NJ.
+- Mantener ubicación controlada (área de servicio NJ/NY cercana a East Orange, NJ) como filtro principal.
 - Usar el creativo como filtro natural del tipo de prospecto.
 - Hablar explícitamente a negocios latinos en NJ/NY: contractors, roofers, cleaners, handymen y servicios locales.
 - Usar intereses amplios solo como señales iniciales.
@@ -313,9 +329,9 @@ Crear audiencias de:
 
 ### Si el presupuesto no alcanza para más creativos, priorizar:
 
-1. 2 videos/Reels.
-2. 1 carrusel.
-3. 1 imagen/oferta.
+1. 2 Reels para atención/confianza.
+2. 1 imagen/oferta para conversión directa.
+3. 1 carrusel/checklist para educación/filtro.
 
 Cada 7 días revisar calidad de conversaciones, no solo métricas superficiales.
 
