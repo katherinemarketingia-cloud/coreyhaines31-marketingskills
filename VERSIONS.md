@@ -43,9 +43,13 @@ Current versions of all skills. Agents can compare against local versions to che
 | site-architecture | 1.2.0 | 2026-03-14 |
 | social-content | 1.3.0 | 2026-04-24 |
 | image | 1.0.0 | 2026-04-24 |
-| video | 1.0.0 | 2026-04-24 |
+| video | 1.1.0 | 2026-06-05 |
 
 ## Recent Changes
+
+### 2026-06-05
+- Extended `video` skill with a documented ChatGPT + Magnific + Canva visual workflow for static assets, carousels, covers, screenshots, ads, and reel support.
+- Added `aura-digital-nj` visual system reference for AÜRA Digital, including editorial direction, typography, color guidance, asset applications, and campaign/content connections.
 
 ### 2026-04-24
 - Added `image` skill for AI image generation, design tools, profile/listing banners, and optimization

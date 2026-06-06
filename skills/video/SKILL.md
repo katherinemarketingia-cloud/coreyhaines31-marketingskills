@@ -1,8 +1,8 @@
 ---
 name: video
-description: "When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Runway,' 'Kling,' 'Pika,' 'video generation,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'video pipeline,' or 'make me a video.' Use this for video creation, generation, and production workflows. For video content strategy and what to post, see social-content. For paid video ad creative, see ad-creative."
+description: "When the user wants to create, generate, or produce video content and visual creative systems using AI tools or programmatic frameworks. Also use when the user mentions 'video production,' 'AI video,' 'Remotion,' 'Hyperframes,' 'HeyGen,' 'Synthesia,' 'Veo,' 'Runway,' 'Kling,' 'Pika,' 'Magnific,' 'Canva,' 'visual workflow,' 'AI avatar,' 'talking head video,' 'programmatic video,' 'video template,' 'explainer video,' 'product demo video,' 'video pipeline,' or 'make me a video.' Use this for video creation, generation, production workflows, and visual systems for reels, covers, carousels, static ads, and improved screenshots. For video content strategy and what to post, see social-content. For paid video ad creative, see ad-creative."
 metadata:
-  version: 1.0.0
+  version: 1.1.0
 ---
 
 # Video
@@ -33,6 +33,37 @@ Gather this context (ask if not provided):
 - Budget constraints? (Some tools charge per minute of video)
 
 ---
+
+## Visual Creative System
+
+Use this skill not only to make videos, but to define a repeatable creative production system for motion and static assets. For documented, manual workflows using **ChatGPT + Magnific + Canva**, see [references/magnific-workflow.md](references/magnific-workflow.md). For the first client-specific example, see the AÜRA Digital visual system in [references/aura-digital-nj-visual-system.md](references/aura-digital-nj-visual-system.md).
+
+This is an **operational framework**, not a claimed native integration. Do not imply the repository can automatically connect to Magnific, Canva, or WhatsApp unless a real integration exists in the repo and the user has configured it.
+
+### What the Visual System Produces
+
+- Static image posts, feed graphics, and campaign assets
+- Carousel cover slides and supporting slides
+- Ad images and creative variants for paid campaigns
+- Improved website screenshots, UI mockups, and product visuals
+- Realistic photographic backgrounds or base visuals for composition
+- Visual support frames for reels, shorts, demos, and explainer videos
+
+### Tool Roles
+
+| Tool | Role | Use When | Output |
+|------|------|----------|--------|
+| **ChatGPT** | Creative direction, prompt writing, hooks, composition plan | You need a concept, message hierarchy, style guide, or prompt set | Briefs, prompts, shot lists, copy blocks |
+| **Magnific** | Manual visual enhancement or stylized realism pass | A screenshot, mockup, photo, or generated base needs more detail, depth, or polish | Enhanced image asset |
+| **Canva** | Final editable composition | You need brand typography, overlays, layouts, ad variants, or carousel exports | Editable design and exported PNG/MP4/PDF |
+| **Video editor** | Timing, cuts, captions, motion, audio, final polish | The asset becomes a reel, ad video, short, or explainer | Final MP4/MOV and platform versions |
+
+### Asset Types and Boundaries
+
+- **Generated or improved images** are base assets. They are not final campaign files until reviewed and composed.
+- **Final editable compositions** should live in Canva or another design tool so humans can adjust typography, spacing, and brand details.
+- **Campaign pieces** should prioritize offer clarity, CTA, compliance, and variant testing.
+- **Organic pieces** should prioritize recognizability, editorial style, useful context, and shareability.
 
 ## Choosing Your Approach
 
