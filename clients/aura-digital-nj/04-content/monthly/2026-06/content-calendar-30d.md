@@ -32,7 +32,7 @@
 | 1 | 2026-05-20 | Instagram | Reel | Educación práctica | Antes de pagar publicidad, revisa tu presencia digital | Educar sobre base digital previa a ads | Si eres contratista en New Jersey, mira esto antes de pagar publicidad | Escríbenos por WhatsApp para cotizar tu página web | pendiente |
 | 2 | 2026-05-22 | Instagram | Reel | Educación práctica | Imagen profesional vs trabajo invisible | Mostrar impacto de percepción visual en confianza | Tu negocio puede trabajar excelente, pero si no se ve profesional, pierde confianza | Pide por WhatsApp información sobre páginas web para tu negocio | pendiente |
 | 3 | 2026-05-25 | Instagram | Carrusel | Educación práctica | Checklist web mínima para generar confianza | Entregar guía accionable y guardable | 5 cosas que tu web debe tener para que te contacten con confianza | Pide por WhatsApp información sobre páginas web para tu negocio | pendiente |
-| 4 | 2026-05-27 | Instagram | Reel | Educación práctica | Instagram no reemplaza una web | Corregir creencia común del mercado | Instagram ayuda, pero no reemplaza una página web | Envíanos “WEB” por WhatsApp y te explicamos el proceso | pendiente |
+| 4 | 2026-05-27 | Instagram | Reel | Conversión / oferta estacional | Oferta de Verano: Presencia Profesional | Generar conversaciones calificadas por WhatsApp sobre la oferta de verano | Toda la imagen profesional de tu negocio a mitad de precio este verano | Escríbenos por WhatsApp para conocer la Oferta de Verano | pendiente |
 | 5 | 2026-05-30 | Instagram | Reel | Educación práctica | Elementos clave de una web para contractor | Explicar estructura de conversión sin tecnicismos | Qué debe tener la web de un contractor para generar contacto | Envíanos “WEB” por WhatsApp y te explicamos el proceso | pendiente |
 | 6 | 2026-06-01 | Instagram | Estático | Conversión/oferta | Oferta principal del mes (web para negocios latinos en NJ) | Presentar oferta de entrada de forma clara | Web primero, servicios complementarios después | Agenda por WhatsApp una llamada breve | pendiente |
 | 7 | 2026-06-03 | Instagram | Reel | Autoridad local | Señales de negocio profesional en NJ | Reforzar posicionamiento local con criterio práctico | Negocio latino en NJ: 3 señales de imagen profesional | Escríbenos “QUIERO WEB” para una orientación inicial | pendiente |
@@ -49,7 +49,7 @@
 | Pieza | Formato orgánico | Tema | Uso en campaña | Tipo de anuncio | Ajuste para pauta |
 |---|---|---|---|---|---|
 | Pieza 1 | Reel | Antes de pagar publicidad, revisa tu presencia digital | Dolor/awareness | Reel Ad | Hook más directo, zona ampliada a NJ/NY cercano, CTA a WhatsApp |
-| Pieza 4 | Reel | Instagram no reemplaza una página web | Objeción común/educación | Reel Ad | Reforzar flujo Instagram → web → WhatsApp |
+| Pieza 4 | Reel | Oferta de Verano: Presencia Profesional | Conversión/oferta estacional | Reel Ad | Presentar la oferta de verano con imagen profesional a mitad de precio y CTA directo a WhatsApp |
 | Pieza 3 | Carrusel | 5 cosas que debe tener una web para generar confianza | Educación/filtro | Carrusel Ad | Slide final más comercial con CTA a WhatsApp |
 | Pieza 6 | Estática | Página web para negocios latinos | Conversión directa | Imagen Ad | Ampliar mensaje a NJ/NY cercano y CTA directo |
 
@@ -108,7 +108,7 @@
    - **Slide 5 (acción práctica/beneficio):** “Checklist rápido: 1) servicio principal arriba 2) fotos reales 3) botón WhatsApp visible.”  
    - **Slide 6 (CTA final):** “Escríbenos ‘WEB’ por WhatsApp y te explicamos el proceso.”  
 11. **Idea visual por slide:**  
-   - **Slide 1:** Titular grande + fondo de celular con web borrosa detrás (sensación de “algo está fallando”).  
+   - **Slide 1:** Titular grande + fondo de móvil con web borrosa detrás (sensación de “algo está fallando”).
    - **Slide 2:** Comparativa mini de perfil confuso vs perfil claro (sin métricas).  
    - **Slide 3:** Lista de errores con íconos de alerta (texto largo, sin zonas, sin CTA).  
    - **Slide 4:** Wireframe simple de hero correcto con bloques señalados.  
@@ -126,15 +126,15 @@
 1. **Número de pieza:** 4  
 2. **Fecha sugerida:** 2026-05-27  
 3. **Formato:** Reel  
-4. **Pilar de contenido:** Educación práctica  
-5. **Tema:** Instagram no reemplaza una página web.  
-6. **Objetivo:** Reencuadrar el rol de IG como canal de descubrimiento y la web como base de conversión.  
-7. **Hook:** “Instagram ayuda, pero no reemplaza una página web.”  
-8. **Idea del contenido:** Vocero: “IG te descubre, la web te valida.” Mostrar flujo simple IG → web → WhatsApp.  
-9. **Copy sugerido:** “Tu Instagram puede atraer miradas, pero cuando quieren tomarte en serio, te buscan más a fondo. Ahí es donde una web clara te ayuda a convertir interés en conversación real.”  
-10. **CTA:** “Envíanos ‘WEB’ por WhatsApp y te explicamos el proceso.”  
-11. **Asset requerido:** Video 9:16 + gráfico simple del flujo en postproducción.  
-12. **Notas de producción:** Visuales de móvil/navegación rápida; mantener video <35 segundos; subtítulos obligatorios.  
+4. **Pilar de contenido:** Conversión / oferta estacional
+5. **Tema:** Oferta de Verano: Presencia Profesional.
+6. **Objetivo:** Generar conversaciones calificadas por WhatsApp sobre la oferta de verano para negocios latinos de servicios en NJ/NY.
+7. **Hook:** “Toda la imagen profesional de tu negocio a mitad de precio este verano.”
+8. **Idea del contenido:** Reel de oferta directa con ritmo comercial: mostrar que AÜRA reúne página web, logo, business cards, yard signs, door hangers y Google Business Profile para que negocios latinos de servicios en NJ/NY se vean claros online y en la calle durante el verano.
+9. **Copy sugerido:** “Este verano, AÜRA Digital ayuda a negocios latinos de servicios en NJ/NY a ordenar toda su presencia profesional: página web, logo, business cards, yard signs, door hangers y Google Business Profile. 50% de descuento por temporada para que tu negocio se vea más claro, coherente y listo para vender online y en la calle. Escríbenos por WhatsApp y te contamos los detalles.”
+10. **CTA:** “Escríbenos por WhatsApp para conocer la Oferta de Verano.”
+11. **Asset requerido:** Video 9:16 con vocero, texto de oferta, mockups de web/logo, Google Business Profile y materiales comerciales; adaptación para Reel Ad.
+12. **Notas de producción:** Mantener tono sofisticado, dinámico y comercial; abrir con la oferta a mitad de precio; mostrar cada elemento incluido con cortes rápidos; comunicar el 50% como incentivo estacional profesional, no como liquidación; subtítulos obligatorios.
 13. **Estado inicial:** pendiente
 14. **Uso en pauta inicial:** Sí / basado en esta pieza para Meta Ads.
 
@@ -167,7 +167,7 @@
 10. **Texto breve de apoyo:** “Empieza por una página web clara, confiable y lista para llevar contactos a WhatsApp.”  
 11. **Texto principal del arte:** “Web profesional para negocios latinos en NJ + contacto directo por WhatsApp.”  
 12. **CTA:** “Escríbenos por WhatsApp y te mostramos la estructura ideal para tu negocio.”  
-13. **Idea visual recomendada:** Mockup de celular mostrando home web + botón de WhatsApp destacado, acompañado de sello textual “Negocios latinos en NJ”.  
+13. **Idea visual recomendada:** Mockup de móvil mostrando home web + botón de WhatsApp destacado, acompañado de sello textual “Negocios latinos en NJ”.
 14. **Jerarquía del mensaje:** 1) Dolor/atención (headline) → 2) Segmento específico (subheadline) → 3) Solución principal (web) → 4) Acción inmediata (WhatsApp).  
 15. **Recomendación de diseño:** Composición limpia en 2 bloques, titular dominante arriba, soporte corto al centro, CTA en botón visual inferior; contraste alto, pocos elementos, look profesional-cercano.  
 16. **Copy sugerido:** “Si hoy te buscan y no te ven claro online, estás perdiendo confianza antes de hablar con el cliente. Tu web debe ayudarte a abrir conversaciones, no a frenarlas.”  
@@ -204,7 +204,7 @@
 9. **Copy sugerido:** “Cuando solo listas servicios, el cliente se confunde. Cuando explicas proceso y acompañamiento, entiende el valor y avanza más seguro.”  
 10. **CTA:** “Pide por WhatsApp nuestro proceso en 3 pasos.”  
 11. **Asset requerido:** Video 9:16 con transiciones de 3 bloques.  
-12. **Notas de producción:** Mantener tono humano y cercano; sin claims de resultados garantizados; cierre fuerte con CTA.  
+12. **Notas de producción:** Mantener tono humano y cercano; sin claims comerciales absolutos; cierre fuerte con CTA.
 13. **Estado inicial:** pendiente
 14. **Uso en pauta inicial:** No / pieza orgánica o posible respaldo futuro.
 
@@ -328,13 +328,13 @@
 5. **Guion hablado (25-35s):** “Si eres contractor, roofer, cleaner o handyman en New Jersey, esto pasa mucho: inviertes en anuncios, te visitan… pero no te contactan. A un negocio latino en Union le pasaba igual: tenían clics, pero su página no decía claro qué servicio hacían ni en qué zonas trabajaban. Error común: pagar publicidad antes de ordenar la base. Solución simple: una web clara con servicio, ciudades y botón visible de WhatsApp. Ahí sí, WhatsApp cierra la conversación.”
 6. **Estructura de toma:**
    - **Toma 1:** Vocero en cámara, plano medio, apertura directa con dolor.
-   - **Toma 2:** Vocero señalando celular con ejemplo de visita sin contacto.
+   - **Toma 2:** Vocero señalando móvil con ejemplo de visita sin contacto.
    - **Toma 3:** Vocero cerrando con solución + invitación a WhatsApp.
 7. **Texto en pantalla por toma:**
    - **Toma 1:** “Muchos clics, pocos mensajes”
    - **Toma 2:** “Error: mandar tráfico a una web confusa”
    - **Toma 3:** “Web clara + WhatsApp = más conversaciones”
-8. **B-roll sugerido:** Mano usando celular, vista rápida de web simple con servicios, tomas de contractor trabajando.
+8. **B-roll sugerido:** Mano usando móvil, vista rápida de web simple con servicios, tomas de contractor trabajando.
 9. **CTA hablado:** “Si quieres, te ayudamos a ordenar tu web primero. Escríbenos por WhatsApp.”
 10. **CTA escrito:** “Escríbenos por WhatsApp para cotizar tu página web.”
 11. **Nota de edición:** Cortes cada 2-3 segundos, subtítulos grandes y resaltar “web clara” y “WhatsApp”.
@@ -362,23 +362,27 @@
 
 ### Reel — Pieza 4
 1. **Número de pieza:** 4
-2. **Objetivo del Reel:** Corregir la idea de que Instagram reemplaza una web y enseñar el flujo IG → web → WhatsApp.
-3. **Hook hablado:** “Instagram te trae miradas, pero la web es la que gana la confianza.”
-4. **Texto en pantalla inicial:** “Instagram no reemplaza tu web”
-5. **Guion hablado (25-35s):** “Si tienes negocio local en New Jersey, seguro lo escuchaste: ‘con Instagram me basta’. Ejemplo real: un handyman en Newark tenía buen contenido, pero al buscar más info no había web clara y perdía contactos. Error común: creer que Instagram reemplaza tu página. Solución simple: usa Instagram para atraer, una web para explicar servicios y zonas, y WhatsApp para cerrar la conversación. Ese flujo te ahorra tiempo y evita clientes fríos.”
-6. **Estructura de toma:**
-   - **Toma 1:** Vocero con pregunta frecuente “¿Con IG basta?”.
-   - **Toma 2:** Gráfico simple del flujo IG → Web → WhatsApp.
-   - **Toma 3:** Vocero aterriza cómo aplicarlo hoy.
-7. **Texto en pantalla por toma:**
-   - **Toma 1:** “¿Solo Instagram?”
-   - **Toma 2:** “IG → Web → WhatsApp”
-   - **Toma 3:** “Sin web clara, baja la confianza”
-8. **B-roll sugerido:** Navegación de Instagram a enlace en bio, carga de una web, apertura de chat WhatsApp.
-9. **CTA hablado:** “Si quieres ese sistema simple para tu negocio, envíanos ‘WEB’ por WhatsApp.”
-10. **CTA escrito:** “Envíanos ‘WEB’ por WhatsApp y te explicamos el proceso.”
-11. **Nota de edición:** Animar el flujo con flechas grandes; dejar 2 segundos finales para CTA en pantalla.
-12. **Versión alternativa del hook:** “Sin web, Instagram te da alcance… pero no siempre te da clientes.”
+2. **Objetivo del Reel:** Generar conversaciones calificadas por WhatsApp sobre la Oferta de Verano: Presencia Profesional, presentando de forma directa el 50% de descuento y los elementos incluidos para negocios latinos de servicios en NJ/NY.
+3. **Hook hablado:** “Toda la imagen profesional de tu negocio a mitad de precio este verano.”
+4. **Texto en pantalla inicial:** “Imagen profesional a mitad de precio este verano”
+5. **Guion hablado (25-40s):** “Toda la imagen profesional de tu negocio a mitad de precio este verano. Página web, logo, business cards, yard signs, door hangers y Google Business Profile para que tu negocio se vea claro online y en la calle. Porque no importa qué tan bueno seas en tu trabajo: si tu imagen no transmite confianza, muchos clientes ni siquiera llegan a escribirte. En AÜRA Digital te ayudamos a que tu negocio se vea más profesional, coherente y listo para vender, desde el primer contacto hasta el momento en que te encuentran. Esta oferta de verano es por tiempo limitado. Escríbenos por WhatsApp y te contamos los detalles.”
+6. **Tomas sugeridas:**
+   - **Toma 1:** Vocero a cámara con el hook y texto grande “50% este verano”.
+   - **Toma 2:** Secuencia rápida de elementos incluidos: web, logo, business cards, yard signs, door hangers y Google Business Profile.
+   - **Toma 3:** Contraste visual entre presencia poco clara y presencia profesional online/en la calle.
+   - **Toma 4:** Vocero cierra con CTA a WhatsApp y pantalla limpia de oferta.
+7. **Texto por toma:**
+   - **Toma 1:** “Imagen profesional a mitad de precio”
+   - **Toma 2:** “Web + logo + Google Business Profile”
+   - **Toma 3:** “Business cards + yard signs + door hangers”
+   - **Toma 4:** “Online y en la calle”
+   - **Cierre:** “Oferta de verano | WhatsApp”
+8. **B-roll sugerido:** Mockup de web con botón de WhatsApp, logo aplicado, Google Business Profile con información clara, business cards sobre escritorio, yard sign frente a propiedad, door hanger en puerta, dueño revisando un mensaje entrante por WhatsApp.
+9. **CTA hablado:** “Escríbenos por WhatsApp y te contamos los detalles.”
+10. **CTA escrito:** “Oferta de Verano: Presencia Profesional | 50% por temporada | WhatsApp”
+11. **Nota de edición:** Ritmo de Reel Ad con patrón oferta → elementos incluidos → problema de confianza → deseo → CTA; cortes cada 2-3 segundos, subtítulos grandes, estética moderna y profesional. Evitar look de liquidación, flyer genérico o presión agresiva.
+12. **Hook alternativo divertido:** “Este verano, que tu negocio no salga a vender con imagen de ayer.”
+13. **Hook alternativo premium:** “Tu presencia profesional, lista para verano, online y en la calle.”
 
 ### Reel — Pieza 5
 1. **Número de pieza:** 5

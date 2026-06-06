@@ -167,14 +167,14 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 #### Ángulos obligatorios
 
 1. Si eres contratista en NJ o NY cercano, esto te interesa.
-2. Tu web puede ayudarte a generar más confianza antes de la conversación. *(reformulado en copy para mantener tono cuidadoso)*
+2. Oferta de Verano: Presencia Profesional a mitad de precio, con web + identidad + materiales comerciales + Google Business Profile.
 3. Antes de pagar ads, asegúrate de verte confiable
 4. AÜRA integra web, branding y publicidad local en un solo sistema.
 
 #### Scripts breves sugeridos (ajustados)
 
 - **Script 1:** “Si eres contratista en NJ o NY cercano, revisa esto: tu presencia digital puede estar frenando contactos. En AÜRA te ayudamos a ordenarla para que sea más fácil pasar de interés a conversación por WhatsApp.”
-- **Script 2:** “Instagram ayuda, pero no reemplaza una web clara. Tu web puede **facilitar que te contacten** y entender mejor tu servicio antes de escribirte.”
+- **Script 2:** “Toda la imagen profesional de tu negocio a mitad de precio este verano: página web, logo, business cards, yard signs, door hangers y Google Business Profile para verte más claro online y en la calle. Escríbenos por WhatsApp y te contamos los detalles.”
 - **Script 3:** “Antes de invertir más en publicidad, asegúrate de que tu negocio se vea confiable. Primero ordena tu mensaje y tu web; así **puede mejorar la calidad de las conversaciones**.”
 - **Script 4:** “AÜRA integra web, branding y publicidad local para negocios latinos en NJ/NY. Un sistema práctico para mejorar confianza y facilitar el contacto por WhatsApp.”
 
@@ -187,7 +187,7 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 #### Titulares sugeridos
 
 - “Contractor en NJ: esto te puede servir”
-- “Instagram no reemplaza una web clara”
+- “Imagen profesional a mitad de precio”
 - “Antes de ads, primero confianza”
 - “Sistema simple: web + branding + publicidad local”
 
@@ -265,7 +265,7 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 | Pieza de parrilla | Formato orgánico | Tema original | Uso en campaña | Tipo de anuncio | Objetivo del anuncio | Ajuste necesario para pauta |
 |---|---|---|---|---|---|---|
 | Pieza 1 | Reel | Antes de pagar publicidad, revisa tu presencia digital | Dolor/awareness | Reel Ad | Atraer contratistas y servicios locales que consideran pauta pero no tienen base digital clara | Hook más directo y zona NJ/NY cercana |
-| Pieza 4 | Reel | Instagram no reemplaza una web | Objeción común/educación | Reel Ad | Educar negocios que dependen solo de Instagram | Reforzar flujo Instagram → web → WhatsApp |
+| Pieza 4 | Reel | Oferta de Verano: Presencia Profesional | Conversión/oferta estacional | Reel Ad | Generar conversaciones por WhatsApp sobre la oferta de verano | Presentar imagen profesional a mitad de precio con web, logo, materiales comerciales, Google Business Profile y 50% por temporada |
 | Pieza 3 | Carrusel | 5 cosas que debe tener una web | Educación/filtro | Carrusel Ad | Filtrar leads que entienden que necesitan mejorar su web | Slide final con CTA a WhatsApp |
 | Pieza 6 | Estática | Oferta de página web para negocios latinos | Conversión directa | Imagen Ad | Comunicar oferta principal | Ampliar a NJ/NY cercano y CTA directo |
 
@@ -311,7 +311,7 @@ Estas piezas pueden reemplazar anuncios después de 7 días si los anuncios inic
    - Revisar después en qué ubicaciones llegan conversaciones reales.
 8. **Crear anuncios iniciales (4 activos):**
    - Anuncio 1: Reel “Si eres contratista en NJ o NY cercano…”
-   - Anuncio 2: Reel “Instagram no reemplaza una web…”
+   - Anuncio 2: Reel “Oferta de Verano: Presencia Profesional…”
    - Anuncio 3: Carrusel “5 cosas que debe tener una web…”
    - Anuncio 4: Imagen/oferta “Web para negocios latinos en NJ/NY…”
    - Estos 4 anuncios son un **test inicial**, no una verdad final:
@@ -396,7 +396,7 @@ Después de 7 días, mantener o reemplazar según calidad de WhatsApp, no solo p
 >
 > Una conversación más cara puede valer más si el lead tiene negocio real, está en zona de servicio y pregunta por web.
 >
-> Un clic barato sin intención comercial no es señal suficiente.
+> Un clic de bajo costo sin intención comercial no es señal suficiente.
 
 ### Señales comerciales
 
