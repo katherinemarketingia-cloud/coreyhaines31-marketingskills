@@ -131,14 +131,14 @@ Mejorar confianza previa al chat y facilitar que negocios locales entiendan ráp
 
 1. Web profesional para generar confianza.
 2. Negocio latino en NJ/NY que quiere verse más serio.
-3. Contratistas que pierden oportunidades por presencia digital débil.
+3. Contratistas en New Jersey o zonas cercanas de New York que están por pagar publicidad sin ordenar su presencia digital.
 4. Web + branding + WhatsApp como sistema simple de captación.
 
 #### Copies base (ajustados sin promesas fuertes)
 
 - “Tu negocio puede trabajar excelente, pero si tu presencia digital se ve improvisada, muchas personas no te escriben. En AÜRA Digital te ayudamos a crear una web profesional que **facilita que te contacten** por WhatsApp.”
 - “Si tienes un negocio latino en NJ/NY, tu imagen online debe hablar por ti cuando estás en campo. Diseñamos webs claras que **mejoran la confianza antes de la conversación**.”
-- “Muchos contratistas no reciben suficientes mensajes porque su presencia digital es débil o confusa. Una web clara **puede ayudarte a convertir mejor el interés** en conversaciones reales.”
+- “Si eres contratista en New Jersey o zonas cercanas de New York y estás por pagar publicidad, detente un segundo. Antes de invertir más, ordena lo básico: web clara, servicios explicados, zonas visibles y botón directo a WhatsApp.”
 - “No necesitas complicarte con varios proveedores. Web + branding + WhatsApp crea un sistema simple que **hace más fácil que el cliente entienda y escriba**.”
 
 #### Titulares sugeridos
@@ -166,29 +166,29 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 
 #### Ángulos obligatorios
 
-1. Si eres contratista en NJ o NY cercano, esto te interesa.
+1. Si eres contratista en New Jersey o zonas cercanas de New York y estás por pagar publicidad, detente un segundo.
 2. Oferta de Verano: Presencia Profesional a mitad de precio, con web + identidad + materiales comerciales + Google Business Profile.
-3. Antes de pagar ads, asegúrate de verte confiable
+3. Antes de pagar publicidad, ordena tu presencia digital: web clara, servicios explicados, zonas visibles y botón directo a WhatsApp.
 4. AÜRA integra web, branding y publicidad local en un solo sistema.
 
 #### Scripts breves sugeridos (ajustados)
 
-- **Script 1:** “Si eres contratista en NJ o NY cercano, revisa esto: tu presencia digital puede estar frenando contactos. En AÜRA te ayudamos a ordenarla para que sea más fácil pasar de interés a conversación por WhatsApp.”
+- **Script 1:** “Si eres contratista en New Jersey o zonas cercanas de New York y estás por pagar publicidad, detente un segundo. Muchos negocios invierten en anuncios, pero cuando el cliente los busca no encuentra rápido qué hacen, en qué zonas trabajan o cómo contactarlos. Antes de invertir más, ordena lo básico: una página clara, servicios bien explicados, zonas visibles y botón directo a WhatsApp.”
 - **Script 2:** “Toda la imagen profesional de tu negocio a mitad de precio este verano: página web, logo, business cards, yard signs, door hangers y Google Business Profile para verte más claro online y en la calle. Escríbenos por WhatsApp y te contamos los detalles.”
-- **Script 3:** “Antes de invertir más en publicidad, asegúrate de que tu negocio se vea confiable. Primero ordena tu mensaje y tu web; así **puede mejorar la calidad de las conversaciones**.”
+- **Script 3:** “Antes de invertir más en publicidad, ordena tu presencia digital. Una web clara, tus servicios bien explicados, zonas de trabajo visibles y un botón directo a WhatsApp ayudan a que el cliente entienda rápido y te contacte con más confianza.”
 - **Script 4:** “AÜRA integra web, branding y publicidad local para negocios latinos en NJ/NY. Un sistema práctico para mejorar confianza y facilitar el contacto por WhatsApp.”
 
 #### Copies base
 
 - “Si tu negocio local depende de recomendaciones, una web profesional **hace más fácil que el cliente entienda y escriba**.”
-- “Muchos negocios invierten en anuncios sin base digital clara. Empieza por una presencia ordenada que **mejore la confianza antes de la conversación**.”
+- “Muchos negocios invierten en anuncios sin base digital clara. Antes de pagar publicidad, ordena una web clara con servicios explicados, zonas visibles y botón directo a WhatsApp.”
 - “Busca conversaciones de mejor calidad con una oferta clara, una web profesional y CTA directo a WhatsApp.”
 
 #### Titulares sugeridos
 
 - “Contractor en NJ: esto te puede servir”
 - “Imagen profesional a mitad de precio”
-- “Antes de ads, primero confianza”
+- “Antes de publicidad, presencia clara”
 - “Sistema simple: web + branding + publicidad local”
 
 #### Descripciones sugeridas
@@ -264,10 +264,10 @@ Captar atención rápida en formato vertical y mover a WhatsApp con mensajes dir
 
 | Pieza de parrilla | Formato orgánico | Tema original | Uso en campaña | Tipo de anuncio | Objetivo del anuncio | Ajuste necesario para pauta |
 |---|---|---|---|---|---|---|
-| Pieza 1 | Reel | Antes de pagar publicidad, revisa tu presencia digital | Dolor/awareness | Reel Ad | Atraer contratistas y servicios locales que consideran pauta pero no tienen base digital clara | Hook más directo y zona NJ/NY cercana |
+| Pieza 1 | Reel | Antes de pagar publicidad, revisa tu presencia digital | Dolor/awareness | Reel Ad | Atraer contratistas en New Jersey o zonas cercanas de New York que están por pagar publicidad sin una presencia digital clara | Actualizar hook a “detente un segundo” y reforzar web clara, servicios explicados, zonas visibles y botón directo a WhatsApp |
 | Pieza 4 | Reel | Oferta de Verano: Presencia Profesional | Conversión/oferta estacional | Reel Ad | Generar conversaciones por WhatsApp sobre la oferta de verano | Presentar imagen profesional a mitad de precio con web, logo, materiales comerciales, Google Business Profile y 50% por temporada |
 | Pieza 3 | Carrusel | 5 cosas que debe tener una web | Educación/filtro | Carrusel Ad | Filtrar leads que entienden que necesitan mejorar su web | Slide final con CTA a WhatsApp |
-| Pieza 6 | Estática | Oferta de página web para negocios latinos | Conversión directa | Imagen Ad | Comunicar oferta principal | Ampliar a NJ/NY cercano y CTA directo |
+| Pieza 6 | Estática | Oferta de página web para negocios latinos | Conversión directa | Imagen Ad | Comunicar oferta principal | Ampliar a New Jersey y zonas cercanas de New York y CTA directo |
 
 ### Piezas de respaldo para futuras iteraciones
 
@@ -310,7 +310,7 @@ Estas piezas pueden reemplazar anuncios después de 7 días si los anuncios inic
    - Usar Advantage+ placements al inicio.
    - Revisar después en qué ubicaciones llegan conversaciones reales.
 8. **Crear anuncios iniciales (4 activos):**
-   - Anuncio 1: Reel “Si eres contratista en NJ o NY cercano…”
+   - Anuncio 1: Reel “Si eres contratista en New Jersey o zonas cercanas de New York y estás por pagar publicidad…”
    - Anuncio 2: Reel “Oferta de Verano: Presencia Profesional…”
    - Anuncio 3: Carrusel “5 cosas que debe tener una web…”
    - Anuncio 4: Imagen/oferta “Web para negocios latinos en NJ/NY…”

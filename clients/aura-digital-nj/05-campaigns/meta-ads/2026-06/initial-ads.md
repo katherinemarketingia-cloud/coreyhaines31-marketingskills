@@ -23,39 +23,42 @@
 
 **Basado en pieza de parrilla:** Pieza 1 — Antes de pagar publicidad, revisa tu presencia digital.
 
-1. **Nombre interno del anuncio:** `AURA_NJNY_META_REEL01_CONTRATISTA_ANTES-DE-ADS`
+1. **Nombre interno del anuncio:** `AURA_NJNY_META_REEL01_CONTRATISTA_ANTES-DE-PAGAR-PUBLICIDAD`
 2. **Formato:** Reel/video vertical 9:16.
-3. **Objetivo del anuncio:** atraer contractors, roofers, remodeladores, cleaners y handymen que están por invertir en publicidad sin base digital clara.
+3. **Objetivo del anuncio:** atraer contractors, roofers, remodeladores, cleaners y handymen en New Jersey o zonas cercanas de New York que están por invertir en publicidad sin una presencia digital clara.
 4. **Audiencia a la que habla:** dueños latinos de negocios de servicios en New Jersey y zonas cercanas de New York (especialmente East Orange, Newark, Elizabeth, Jersey City, Union City, North Bergen, Bronx, Queens y Brooklyn).
-5. **Dolor principal:** están pagando o pensando pagar publicidad, pero su negocio no se ve profesional cuando los buscan.
-6. **Ángulo persuasivo:** “antes de invertir en anuncios, primero revisa si tu negocio transmite confianza”.
+5. **Dolor principal:** están pagando o pensando pagar publicidad, pero cuando el cliente los busca no encuentra rápido qué hacen, en qué zonas trabajan o cómo contactarlos.
+6. **Ángulo persuasivo:** antes de pagar publicidad, ordena tu presencia digital para que el negocio se vea claro, confiable y fácil de contactar desde el primer clic.
 7. **Primary text versión corta:**
-   - Si eres contratista en NJ o NY cercano, revisa esto antes de pagar publicidad. Si tu negocio se ve confuso online, la gente no te escribe. Empieza por una web clara y botón a WhatsApp.
+   - Si eres contratista en New Jersey o zonas cercanas de New York y estás por pagar publicidad, revisa primero tu presencia digital. Una web clara, servicios explicados, zonas visibles y botón a WhatsApp ayudan a que el cliente entienda y te contacte con más confianza.
 8. **Primary text versión media:**
-   - Muchos contractors en NJ/NY cercano invierten en publicidad, pero su presencia digital no está lista. Cuando un cliente te busca y no entiende rápido qué haces, dónde trabajas y cómo contactarte, se va con otro. En AÜRA Digital te ayudamos a crear una página web clara y profesional para que te contacten por WhatsApp con más confianza.
-9. **Headline:** `Contractor en NJ/NY: revisa esto primero`
-10. **Description:** `Web clara para generar confianza`
+   - Muchos negocios invierten en anuncios, pero cuando el cliente los busca no encuentra rápido qué hacen, en qué zonas trabajan o cómo contactarlos. Si tu presencia se ve confusa, incompleta o poco profesional, ese cliente puede dudar y escribirle a otro. En AÜRA Digital te ayudamos a crear una web profesional con servicios claros, zonas visibles y botón directo a WhatsApp.
+9. **Headline:** `Antes de pagar publicidad`
+10. **Description:** `Ordena tu web y WhatsApp`
 11. **CTA recomendado:** `Enviar mensaje` (WhatsApp).
 12. **Texto en pantalla o texto del creativo:**
-   - Pantalla 1: “¿Pagando ads sin base?”
-   - Pantalla 2: “Si no se entiende tu servicio, te pierden”
-   - Pantalla 3: “Web clara + WhatsApp = contacto más fácil”
+   - Pantalla 1: “Antes de pagar publicidad”
+   - Pantalla 2: “¿Se entiende qué haces y dónde trabajas?”
+   - Pantalla 3: “Web clara + servicios + zonas + WhatsApp”
+   - Pantalla 4: “Escríbenos por WhatsApp”
 13. **Guion si es Reel:**
-   - **Hook (0-3s):** “Si eres contratista en NJ o NY cercano y estás por pagar publicidad, para un segundo.”
-   - **Desarrollo (4-20s):** “Muchos negocios invierten en anuncios, pero cuando un cliente los busca, no entiende rápido qué hacen. Si se ve confuso, no escribe.”
-   - **Solución (21-32s):** “Primero ordena tu presencia: servicio claro, zonas de trabajo y botón directo a WhatsApp.”
-   - **Cierre (33-40s):** “Si quieres, te ayudamos con tu página web para que tu negocio se vea más profesional.”
+   - **Hook (0-3s):** “Si eres contratista en New Jersey o zonas cercanas de New York y estás por pagar publicidad, detente un segundo.”
+   - **Interés (4-14s):** “Muchos negocios invierten en anuncios, pero cuando el cliente los busca, no encuentra rápido qué hacen, en qué zonas trabajan o cómo contactarlos.”
+   - **Problema (15-22s):** “Y si tu presencia se ve confusa, incompleta o poco profesional, ese cliente puede dudar… y escribirle a otro.”
+   - **Solución (23-33s):** “Antes de invertir más en publicidad, ordena lo básico: una página clara, tus servicios bien explicados, tus zonas de trabajo visibles y un botón directo a WhatsApp.”
+   - **Cierre (34-40s):** “En AÜRA Digital te ayudamos a crear una web profesional para que tu negocio se vea confiable desde el primer clic. Escríbenos por WhatsApp.”
 14. **Estructura visual si es carrusel o imagen:** no aplica (Reel).
-15. **Asset requerido:** video vertical 9:16 con vocero en cámara + subtítulos grandes + portada Reel.
+15. **Asset requerido:** video vertical 9:16 con vocero en cámara, subtítulos grandes, overlays de checklist, ejemplo de web clara y pantalla final con CTA a WhatsApp.
 16. **Prompt/brief para diseño o edición:**
-   - Editar Reel corto (25-40s), ritmo ágil, cortes cada 2-3 segundos. Incluir overlay de texto grande con 3 mensajes clave. Mostrar móvil con ejemplo de presencia confusa vs clara. Cierre con pantalla final de WhatsApp y CTA “Escríbenos por WhatsApp”. Estilo cercano, local NJ/NY, sin tecnicismos.
-17. **Hipótesis a validar:** el mensaje “antes de pagar ads” atraerá leads más conscientes del problema y con mejor disposición para invertir primero en web.
-18. **Señal de éxito esperada sin inventar métricas:** llegan conversaciones donde mencionan que ya intentaron anunciarse o que sienten que su negocio no se ve profesional.
+   - Editar Reel corto (35-40s), ritmo ágil, cortes cada 2-3 segundos. Abrir con vocero hablando a cámara a contratistas en New Jersey o zonas cercanas de New York. Mostrar móvil con ejemplo de presencia confusa vs presencia clara. Incluir overlays: “web clara”, “servicios explicados”, “zonas visibles” y “botón directo a WhatsApp”. Cerrar con pantalla final de AÜRA Digital y CTA “Escríbenos por WhatsApp”. Estilo cercano, local de New Jersey y zonas cercanas de New York, sin tecnicismos ni promesas garantizadas.
+17. **Hipótesis a validar:** el mensaje “antes de pagar publicidad, ordena tu presencia digital” atraerá leads que reconocen que necesitan una web clara antes de invertir más en pauta.
+18. **Señal de éxito esperada sin inventar métricas:** llegan conversaciones donde mencionan que estaban por anunciarse, que su web/perfil no está claro o que necesitan explicar mejor servicios, zonas y contacto por WhatsApp.
 19. **Qué revisar en WhatsApp si llega un lead:**
-   - Si es contractor/roofer/cleaner/handyman.
+   - Si es contractor/roofer/cleaner/handyman u otro negocio de servicios.
    - Si está en New Jersey o zonas cercanas de New York.
    - Si ya invierte o quería invertir en publicidad.
-   - Si tiene web actual o solo Instagram.
+   - Si tiene web actual, solo Instagram/Google Business Profile o presencia incompleta.
+   - Si sus servicios, zonas de trabajo y botón/contacto a WhatsApp están claros.
    - Si pide información específica de página web.
 
 ---
@@ -159,7 +162,7 @@
 5. **Dolor principal:** se ven improvisados online y eso les resta confianza frente a potenciales clientes.
 6. **Ángulo persuasivo:** oferta clara y local: “página web para negocios latinos en NJ/NY”, con contacto fácil.
 7. **Primary text versión corta:**
-   - ¿Tu negocio en NJ o NY cercano necesita verse más profesional? Creamos tu página web para que expliques mejor tus servicios y te contacten por WhatsApp.
+   - ¿Tu negocio en New Jersey o zonas cercanas de New York necesita verse más profesional? Creamos tu página web para que expliques mejor tus servicios y te contacten por WhatsApp.
 8. **Primary text versión media:**
    - Si tienes un negocio latino en NJ/NY y sientes que tu presencia digital no refleja la calidad de tu trabajo, podemos ayudarte. En AÜRA Digital creamos páginas web claras para contractors, roofers, cleaners, handymen y servicios locales, con enfoque en confianza y contacto rápido por WhatsApp.
 9. **Headline:** `Página web para negocios latinos en NJ/NY`
