@@ -4,7 +4,7 @@
 - Periodo: `2026-05-20_to_2026-06-20`
 - Periodo visible: **mayo 20 a junio 20 de 2026**
 - Campaña base: 1 campaña de Leads/Mensajes a WhatsApp, 1 conjunto para área de servicio NJ/NY cercana a East Orange, NJ, 4 anuncios activos iniciales.
-- Oferta principal en todos los anuncios: **página web para negocios latinos en NJ/NY**.
+- Oferta principal en la campaña: **página web para negocios latinos en NJ/NY**; el Anuncio 2 presenta la **Oferta de Verano: Presencia Profesional** con web + identidad + materiales comerciales + Google Business Profile.
 - Fase actual: **WhatsApp-first** porque AÜRA aún no tiene web/landing propia activa.
 
 ---
@@ -12,7 +12,7 @@
 ## Relación con la parrilla orgánica
 
 - Anuncio 1 basado en **Pieza 1** de la parrilla.
-- Anuncio 2 basado en **Pieza 4** de la parrilla.
+- Anuncio 2 basado en **Pieza 4 — Oferta de Verano: Presencia Profesional** de la parrilla.
 - Anuncio 3 basado en **Pieza 3** de la parrilla.
 - Anuncio 4 basado en **Pieza 6** de la parrilla.
 - La versión de pauta puede adaptar hook, copy y CTA para ser más directa, sin cambiar el mensaje estratégico original.
@@ -48,7 +48,7 @@
 14. **Estructura visual si es carrusel o imagen:** no aplica (Reel).
 15. **Asset requerido:** video vertical 9:16 con vocero en cámara + subtítulos grandes + portada Reel.
 16. **Prompt/brief para diseño o edición:**
-   - Editar Reel corto (25-40s), ritmo ágil, cortes cada 2-3 segundos. Incluir overlay de texto grande con 3 mensajes clave. Mostrar celular con ejemplo de presencia confusa vs clara. Cierre con pantalla final de WhatsApp y CTA “Escríbenos por WhatsApp”. Estilo cercano, local NJ/NY, sin tecnicismos.
+   - Editar Reel corto (25-40s), ritmo ágil, cortes cada 2-3 segundos. Incluir overlay de texto grande con 3 mensajes clave. Mostrar móvil con ejemplo de presencia confusa vs clara. Cierre con pantalla final de WhatsApp y CTA “Escríbenos por WhatsApp”. Estilo cercano, local NJ/NY, sin tecnicismos.
 17. **Hipótesis a validar:** el mensaje “antes de pagar ads” atraerá leads más conscientes del problema y con mejor disposición para invertir primero en web.
 18. **Señal de éxito esperada sin inventar métricas:** llegan conversaciones donde mencionan que ya intentaron anunciarse o que sienten que su negocio no se ve profesional.
 19. **Qué revisar en WhatsApp si llega un lead:**
@@ -62,42 +62,45 @@
 
 ## 2) Anuncio Reel 2
 
-**Basado en pieza de parrilla:** Pieza 4 — Instagram no reemplaza una página web.
+**Basado en pieza de parrilla:** Pieza 4 — Oferta de Verano: Presencia Profesional.
 
-1. **Nombre interno del anuncio:** `AURA_NJNY_META_REEL02_IG-NO-REEMPLAZA-WEB`
-2. **Formato:** Reel/video vertical 9:16.
-3. **Objetivo del anuncio:** explicar de forma simple que Instagram atrae, la web valida confianza y WhatsApp convierte la conversación.
-4. **Audiencia a la que habla:** dueños latinos de servicios locales en New Jersey y zonas cercanas de New York que dependen de Instagram pero no tienen web profesional.
-5. **Dolor principal:** creen que con Instagram basta y pierden oportunidades cuando el cliente busca más información.
-6. **Ángulo persuasivo:** “IG abre la puerta; la web te toma en serio; WhatsApp facilita el contacto”.
+1. **Nombre interno del anuncio:** `AURA_NJNY_META_REEL02_OFERTA-VERANO_PRESENCIA-50`
+2. **Formato:** Reel Ad/video vertical 9:16.
+3. **Objetivo del anuncio:** abrir conversaciones calificadas por WhatsApp sobre la Oferta de Verano: Presencia Profesional y el 50% de descuento por temporada.
+4. **Audiencia a la que habla:** dueños latinos de negocios de servicios en New Jersey y zonas cercanas de New York que necesitan una imagen profesional clara online y en la calle para salir a vender este verano.
+5. **Dolor principal:** el negocio puede hacer buen trabajo, pero si su imagen no transmite confianza, muchos clientes no llegan a escribir o pedir detalles.
+6. **Ángulo persuasivo:** oferta de verano directa: toda la presencia profesional del negocio a mitad de precio, con web + identidad + materiales comerciales + Google Business Profile.
 7. **Primary text versión corta:**
-   - Instagram ayuda, pero no reemplaza una página web. Si te descubren en IG y no ven una web clara, se enfría la confianza. En AÜRA te ayudamos a conectar web + WhatsApp.
+   - Toda la imagen profesional de tu negocio a mitad de precio este verano. Web, logo, business cards, yard signs, door hangers y Google Business Profile para verte claro online y en la calle. Escríbenos por WhatsApp.
 8. **Primary text versión media:**
-   - Tener Instagram activo es bueno, pero no siempre alcanza para convertir interés en conversación útil. Cuando alguien quiere contratarte, te investiga. Si no encuentra una web clara con tus servicios y contacto rápido, duda y sigue buscando. En AÜRA Digital creamos páginas web para negocios latinos en NJ/NY y las conectamos con WhatsApp para que te contacten más fácil.
-9. **Headline:** `Instagram no reemplaza tu web`
-10. **Description:** `IG atrae, web valida, WhatsApp conecta`
+   - Oferta de Verano AÜRA para negocios latinos de servicios en NJ/NY: página web, logo, business cards, yard signs, door hangers y Google Business Profile con 50% de descuento por temporada. Una presencia más profesional, coherente y lista para vender desde el primer contacto hasta el momento en que te encuentran. Escríbenos por WhatsApp y te contamos los detalles.
+9. **Headline:** `Imagen profesional a mitad de precio`
+10. **Description:** `Oferta de verano AÜRA`
 11. **CTA recomendado:** `Enviar mensaje` (WhatsApp).
 12. **Texto en pantalla o texto del creativo:**
-   - Pantalla 1: “¿Solo Instagram?”
-   - Pantalla 2: “IG → Web → WhatsApp”
-   - Pantalla 3: “Sin web clara, se cae la confianza”
+   - Pantalla 1: “Imagen profesional a mitad de precio”
+   - Pantalla 2: “Web + logo + Google Business Profile”
+   - Pantalla 3: “Business cards + yard signs + door hangers”
+   - Pantalla 4: “Online y en la calle”
+   - Pantalla 5: “WhatsApp para detalles”
 13. **Guion si es Reel:**
-   - **Hook (0-3s):** “Instagram te puede descubrir, pero no reemplaza una web.”
-   - **Desarrollo (4-20s):** “Cuando una persona quiere contratarte, te busca más a fondo. Si no te entiende rápido, no te escribe.”
-   - **Aterrizaje (21-32s):** “El orden es simple: Instagram atrae, la web explica y WhatsApp abre la conversación.”
-   - **Cierre (33-40s):** “Si quieres ese sistema en tu negocio, escríbenos por WhatsApp.”
+   - **Hook (0-4s):** “Toda la imagen profesional de tu negocio a mitad de precio este verano.”
+   - **Interés (5-13s):** “Página web, logo, business cards, yard signs, door hangers y Google Business Profile para que tu negocio se vea claro online y en la calle.”
+   - **Problema (14-23s):** “Porque no importa qué tan bueno seas en tu trabajo: si tu imagen no transmite confianza, muchos clientes ni siquiera llegan a escribirte.”
+   - **Deseo (24-34s):** “En AÜRA Digital te ayudamos a que tu negocio se vea más profesional, coherente y listo para vender, desde el primer contacto hasta el momento en que te encuentran.”
+   - **Acción (35-40s):** “Esta oferta de verano es por tiempo limitado. Escríbenos por WhatsApp y te contamos los detalles.”
 14. **Estructura visual si es carrusel o imagen:** no aplica (Reel).
-15. **Asset requerido:** video 9:16 con vocero + animación simple del flujo IG→Web→WhatsApp.
+15. **Asset requerido:** video 9:16 con vocero + mockups premium de web, logo, business cards, yard signs, door hangers, Google Business Profile y cierre visual de WhatsApp.
 16. **Prompt/brief para diseño o edición:**
-   - Crear Reel educativo de 25-35s con lenguaje cotidiano. Mostrar transición visual desde Instagram al sitio web y luego a chat de WhatsApp. Usar subtítulos grandes en español, mantener tono práctico y directo para negocios latinos en NJ/NY. Cerrar con CTA de WhatsApp.
-17. **Hipótesis a validar:** aclarar el rol de Instagram vs web reducirá objeciones y mejorará la intención de solicitar página web.
-18. **Señal de éxito esperada sin inventar métricas:** leads escriben diciendo “solo tengo Instagram” o preguntan cómo crear su web para verse más confiables.
+   - Crear Reel Ad de 25-40s con estructura oferta → elementos incluidos → problema de confianza → deseo → CTA. Abrir con vocero y texto grande “Imagen profesional a mitad de precio este verano”. Mostrar rápidamente web, logo, Google Business Profile, business cards, yard signs y door hangers con look limpio y moderno. Mantener tono profesional, comercial y dinámico para negocios latinos de servicios en NJ/NY. El 50% debe verse como incentivo estacional profesional, no como liquidación ni venta agresiva.
+17. **Hipótesis a validar:** una oferta directa de presencia profesional a mitad de precio hará más fácil que dueños de negocios entiendan el valor completo y escriban por WhatsApp para preguntar por elementos incluidos, precio final, tiempos y aplicación a su rubro.
+18. **Señal de éxito esperada sin inventar métricas:** leads escriben por WhatsApp preguntando por la Oferta de Verano, el 50%, Google Business Profile, web, logo, business cards, yard signs, door hangers o cómo preparar su negocio para verse más profesional este verano.
 19. **Qué revisar en WhatsApp si llega un lead:**
-   - Si actualmente solo usa Instagram/Facebook.
-   - Si tiene link en bio a web o no.
-   - Qué servicio ofrece y en qué ciudad opera.
-   - Si su urgencia es “verse más profesional” o “recibir más consultas”.
-   - Si acepta llamada corta de diagnóstico.
+   - Si pregunta por la oferta completa, el 50% o un elemento específico incluido.
+   - Tipo de negocio, ciudad y zona de servicio dentro de NJ/NY.
+   - Si ya tiene web, logo, Google Business Profile o materiales impresos.
+   - Qué necesita priorizar: página web, identidad, business cards, yard signs, door hangers, Google Business Profile o presencia completa.
+   - Si busca verse más profesional online y en la calle este verano y disponibilidad para enviar información básica del negocio.
 
 ---
 
@@ -169,7 +172,7 @@
 13. **Guion si es Reel:** no aplica (imagen).
 14. **Estructura visual si es carrusel o imagen:**
    - Diseño con titular fuerte arriba.
-   - Centro: visual de celular/laptop mostrando web de negocio de servicios.
+   - Centro: visual de móvil/laptop mostrando web de negocio de servicios.
    - Franja inferior: CTA WhatsApp + mención local “East Orange, Newark, Elizabeth, Jersey City, Union City, North Bergen, Bronx, Queens y Brooklyn”.
    - Versiones: feed (1080x1350) y story (1080x1920).
 15. **Asset requerido:** 1 imagen feed + 1 versión story.
@@ -191,7 +194,7 @@
 - Mantener estos 4 anuncios activos en el mismo conjunto de anuncios del área de servicio NJ/NY cercana a East Orange.
 - Usar WhatsApp como destino único de CTA.
 - Revisar calidad de conversación antes de hacer cambios.
-- No prometer resultados garantizados en copy ni en respuestas comerciales.
+- No prometer outcomes comerciales asegurados en copy ni en respuestas comerciales.
 - Validar con el cliente las ciudades exactas antes de lanzar.
 - Con $8–$9/día, no abrir todo NJ + todo NY.
 - Empezar con ciudades priorizadas o ZIP codes y ampliar según calidad de conversaciones por WhatsApp.
