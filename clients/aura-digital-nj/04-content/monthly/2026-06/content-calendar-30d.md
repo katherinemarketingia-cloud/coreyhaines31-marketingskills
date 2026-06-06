@@ -29,7 +29,7 @@
 
 | # | Fecha sugerida | Canal | Formato | Pilar | Tema | Objetivo | Hook | CTA | Estado |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | 2026-05-20 | Instagram | Reel | Educación práctica | Antes de pagar publicidad, revisa tu presencia digital | Educar sobre base digital previa a ads | Si eres contratista en New Jersey, mira esto antes de pagar publicidad | Escríbenos por WhatsApp para cotizar tu página web | pendiente |
+| 1 | 2026-05-20 | Instagram | Reel | Educación práctica | Antes de pagar publicidad, revisa tu presencia digital | Educar sobre base digital previa a ads | Si eres contratista en New Jersey o zonas cercanas de New York y estás por pagar publicidad, detente un segundo | Escríbenos por WhatsApp para crear una web profesional | pendiente |
 | 2 | 2026-05-22 | Instagram | Reel | Educación práctica | Imagen profesional vs trabajo invisible | Mostrar impacto de percepción visual en confianza | Tu negocio puede trabajar excelente, pero si no se ve profesional, pierde confianza | Pide por WhatsApp información sobre páginas web para tu negocio | pendiente |
 | 3 | 2026-05-25 | Instagram | Carrusel | Educación práctica | Checklist web mínima para generar confianza | Entregar guía accionable y guardable | 5 cosas que tu web debe tener para que te contacten con confianza | Pide por WhatsApp información sobre páginas web para tu negocio | pendiente |
 | 4 | 2026-05-27 | Instagram | Reel | Conversión / oferta estacional | Oferta de Verano: Presencia Profesional | Generar conversaciones calificadas por WhatsApp sobre la oferta de verano | Toda la imagen profesional de tu negocio a mitad de precio este verano | Escríbenos por WhatsApp para conocer la Oferta de Verano | pendiente |
@@ -48,10 +48,10 @@
 
 | Pieza | Formato orgánico | Tema | Uso en campaña | Tipo de anuncio | Ajuste para pauta |
 |---|---|---|---|---|---|
-| Pieza 1 | Reel | Antes de pagar publicidad, revisa tu presencia digital | Dolor/awareness | Reel Ad | Hook más directo, zona ampliada a NJ/NY cercano, CTA a WhatsApp |
+| Pieza 1 | Reel | Antes de pagar publicidad, revisa tu presencia digital | Dolor/awareness | Reel Ad | Hook más directo, zona ampliada a New Jersey y zonas cercanas de New York, CTA a WhatsApp |
 | Pieza 4 | Reel | Oferta de Verano: Presencia Profesional | Conversión/oferta estacional | Reel Ad | Presentar la oferta de verano con imagen profesional a mitad de precio y CTA directo a WhatsApp |
 | Pieza 3 | Carrusel | 5 cosas que debe tener una web para generar confianza | Educación/filtro | Carrusel Ad | Slide final más comercial con CTA a WhatsApp |
-| Pieza 6 | Estática | Página web para negocios latinos | Conversión directa | Imagen Ad | Ampliar mensaje a NJ/NY cercano y CTA directo |
+| Pieza 6 | Estática | Página web para negocios latinos | Conversión directa | Imagen Ad | Ampliar mensaje a New Jersey y zonas cercanas de New York y CTA directo |
 
 > Estas piezas se usarán como base para los 4 anuncios iniciales. La versión de pauta puede adaptar hook, copy y CTA para ser más directa, pero debe mantener el mensaje estratégico original.
 
@@ -63,14 +63,14 @@
 2. **Fecha sugerida:** 2026-05-20  
 3. **Formato:** Reel  
 4. **Pilar de contenido:** Educación práctica  
-5. **Tema:** Si eres contratista en New Jersey, revisa tu presencia digital antes de pagar publicidad.  
+5. **Tema:** Si eres contratista en New Jersey o zonas cercanas de New York, ordena tu presencia digital antes de pagar publicidad.
 6. **Objetivo:** Generar conciencia de prioridad estratégica (base digital antes de ads).  
-7. **Hook:** “Si eres contratista en New Jersey, mira esto antes de pagar publicidad.”  
-8. **Idea del contenido:** Vocero en cámara explicando 3 puntos rápidos: claridad de servicios, evidencia de trabajos y CTA directo a WhatsApp. Cierre con “si esto falla, tus anuncios se enfrían”.  
-9. **Copy sugerido:** “Muchos contratistas invierten en anuncios sin revisar algo básico: cómo se ve su negocio cuando alguien lo busca. Si tu presencia digital no transmite confianza, la publicidad se te va en clics que no conversan. Empieza por ordenarlo y luego escala.”  
-10. **CTA:** “Escríbenos por WhatsApp para cotizar tu página web.”  
+7. **Hook:** “Si eres contratista en New Jersey o zonas cercanas de New York y estás por pagar publicidad, detente un segundo.”
+8. **Idea del contenido:** Vocero en cámara explica que muchos negocios pagan anuncios, pero cuando el cliente los busca no encuentra rápido qué hacen, en qué zonas trabajan o cómo contactarlos. La solución es ordenar lo básico antes de invertir más: web clara, servicios explicados, zonas visibles y botón directo a WhatsApp.
+9. **Copy sugerido:** “Si estás por pagar publicidad, revisa primero cómo se ve tu negocio cuando alguien te busca. Si no queda claro qué haces, dónde trabajas o cómo contactarte, el cliente puede dudar y escribirle a otro. En AÜRA Digital te ayudamos a crear una web profesional con servicios claros, zonas visibles y botón directo a WhatsApp.”
+10. **CTA:** “Escríbenos por WhatsApp para crear una web profesional.”
 11. **Asset requerido:** Video vertical 9:16 (vocero), texto en pantalla con 3 bullets, portada Reel.  
-12. **Notas de producción:** Toma exterior/local en East Orange o Newark para reforzar NJ; ritmo ágil; subtítulos grandes; evitar tecnicismos.  
+12. **Notas de producción:** Toma exterior/local en East Orange, Newark o zona cercana para reforzar New Jersey y zonas cercanas de New York; ritmo ágil; subtítulos grandes; mostrar web clara, servicios explicados, zonas visibles y botón directo a WhatsApp; evitar tecnicismos.
 13. **Estado inicial:** pendiente
 14. **Uso en pauta inicial:** Sí / basado en esta pieza para Meta Ads.
 
@@ -322,23 +322,28 @@
 
 ### Reel — Pieza 1
 1. **Número de pieza:** 1
-2. **Objetivo del Reel:** Hacer que contratistas y negocios de servicios en NJ entiendan que antes de pagar publicidad necesitan una web clara y confiable.
-3. **Hook hablado:** “¿Estás pagando ads y nadie te escribe? Puede que tu web esté frenando todo.”
-4. **Texto en pantalla inicial:** “Pagas ads, cero mensajes”
-5. **Guion hablado (25-35s):** “Si eres contractor, roofer, cleaner o handyman en New Jersey, esto pasa mucho: inviertes en anuncios, te visitan… pero no te contactan. A un negocio latino en Union le pasaba igual: tenían clics, pero su página no decía claro qué servicio hacían ni en qué zonas trabajaban. Error común: pagar publicidad antes de ordenar la base. Solución simple: una web clara con servicio, ciudades y botón visible de WhatsApp. Ahí sí, WhatsApp cierra la conversación.”
+2. **Objetivo del Reel:** Hacer que contratistas y negocios de servicios en New Jersey o zonas cercanas de New York entiendan que antes de pagar publicidad necesitan ordenar su presencia digital con una web clara, servicios explicados, zonas visibles y contacto directo a WhatsApp.
+3. **Hook hablado:** “Si eres contratista en New Jersey o zonas cercanas de New York y estás por pagar publicidad, detente un segundo.”
+4. **Texto en pantalla inicial:** “Antes de pagar publicidad”
+5. **Guion hablado (25-40s):** “Si eres contratista en New Jersey o zonas cercanas de New York y estás por pagar publicidad, detente un segundo. Muchos negocios invierten en anuncios, pero cuando el cliente los busca, no encuentra rápido qué hacen, en qué zonas trabajan o cómo contactarlos. Y si tu presencia se ve confusa, incompleta o poco profesional, ese cliente puede dudar… y escribirle a otro. Antes de invertir más en publicidad, ordena lo básico: una página clara, tus servicios bien explicados, tus zonas de trabajo visibles y un botón directo a WhatsApp. En AÜRA Digital te ayudamos a crear una web profesional para que tu negocio se vea confiable desde el primer clic. Escríbenos por WhatsApp.”
 6. **Estructura de toma:**
-   - **Toma 1:** Vocero en cámara, plano medio, apertura directa con dolor.
-   - **Toma 2:** Vocero señalando móvil con ejemplo de visita sin contacto.
-   - **Toma 3:** Vocero cerrando con solución + invitación a WhatsApp.
+   - **Toma 1:** Vocero en cámara, plano medio, apertura directa a contratistas en New Jersey o zonas cercanas de New York que están por pagar publicidad.
+   - **Toma 2:** Vocero mostrando un móvil con ejemplo de presencia confusa: servicios poco claros, sin zonas visibles y sin contacto rápido.
+   - **Toma 3:** Vocero mostrando checklist visual de solución: página clara, servicios explicados, zonas de trabajo visibles y botón directo a WhatsApp.
+   - **Toma 4:** Cierre con pantalla final de AÜRA Digital + WhatsApp.
 7. **Texto en pantalla por toma:**
-   - **Toma 1:** “Muchos clics, pocos mensajes”
-   - **Toma 2:** “Error: mandar tráfico a una web confusa”
-   - **Toma 3:** “Web clara + WhatsApp = más conversaciones”
-8. **B-roll sugerido:** Mano usando móvil, vista rápida de web simple con servicios, tomas de contractor trabajando.
-9. **CTA hablado:** “Si quieres, te ayudamos a ordenar tu web primero. Escríbenos por WhatsApp.”
-10. **CTA escrito:** “Escríbenos por WhatsApp para cotizar tu página web.”
-11. **Nota de edición:** Cortes cada 2-3 segundos, subtítulos grandes y resaltar “web clara” y “WhatsApp”.
-12. **Versión alternativa del hook:** “Antes de meter un dólar en ads, revisa si tu web se entiende en 5 segundos.”
+   - **Toma 1:** “¿Vas a pagar publicidad?”
+   - **Toma 2:** “Si no entienden qué haces, dudan”
+   - **Toma 3:** “Web clara + servicios + zonas + WhatsApp”
+   - **Toma 4:** “Escríbenos por WhatsApp”
+8. **B-roll sugerido:** Mano usando móvil, búsqueda de negocio local, ejemplo de página confusa vs página clara, mapa de New Jersey con zonas cercanas de New York, lista de servicios, botón de WhatsApp destacado, tomas de contractor trabajando.
+9. **CTA hablado:** “En AÜRA Digital te ayudamos a crear una web profesional para que tu negocio se vea confiable desde el primer clic. Escríbenos por WhatsApp.”
+10. **CTA escrito:** “Escríbenos por WhatsApp para crear una web profesional.”
+11. **Nota de edición:** Cortes cada 2-3 segundos, subtítulos grandes y resaltar “antes de pagar publicidad”, “web clara”, “zonas visibles” y “WhatsApp”.
+12. **Hooks alternativos:**
+   - “Antes de meter un dólar en ads, revisa si tu negocio se entiende en 5 segundos.”
+   - “Si tu cliente te busca y no entiende qué haces, tu publicidad puede perder fuerza.”
+   - “Publicidad sin presencia digital clara puede hacer que el cliente dude.”
 
 ### Reel — Pieza 2
 1. **Número de pieza:** 2
